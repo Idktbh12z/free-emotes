@@ -1,6 +1,4 @@
--- property of ceg
--- feel free to use :nerd:
-
+-- this is for only if the script is forgotten.
 local httpService = game:GetService('HttpService')
 local categories = game:HttpGet('https://catalog.roblox.com/v1/categories')
 local animationCategory = httpService:JSONDecode(categories).AvatarAnimations
@@ -9,7 +7,7 @@ local emoteCategory = httpService:JSONDecode(subCategory).EmoteAnimations
 
 local emotesTable = {}
 local cursor = ''
-local animsTable = httpService:JSONDecode(game:HttpGet('https://pastebin.com/raw/XppaAPF7'))
+local animsTable = httpService:JSONDecode(game:HttpGet('https://raw.githubusercontent.com/Idktbh12z/free-emotes/main/animtable.lua'))
 
 local animsTableNames = {}
 for name in pairs(animsTable) do
@@ -49,7 +47,7 @@ for _, emote in ipairs(emotesTable) do
     robloxEmotes[emote[1]] = { emote[2] }
 end
 
-local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Vzurxy/Scripts/main/uwuware_ui.lua'))()
+local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Idktbh12z/free-emotes/main/UI-LIB.lua'))()
 local plr = game:GetService('Players').LocalPlayer
 local character = plr.Character
 local humanoid = character:WaitForChild('Humanoid', 5) or character:FindFirstChildWhichIsA('Humanoid')
