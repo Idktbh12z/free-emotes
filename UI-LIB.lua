@@ -1,6 +1,1670 @@
-_, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
+local library = {flags = {}, windows = {}, open = true}
 
+--Services
+local runService = game:GetService"RunService"
+local tweenService = game:GetService"TweenService"
+local textService = game:GetService"TextService"
+local inputService = game:GetService"UserInputService"
 
-,nil,nil;(function() _msec=(function(e,l,o)local R=l["           "];local T=o[e[(((0x1bf18/152)+-0x5d)+-#"Hoo gah hooga hoo gahoo hoo gah hooga hoo gahoo")]][e["           ​     "]];local P=(89+-0x55)/(-#"I make elevating music you make elevator music"+(174-(0x9d+(-0x18-7))))local i=(-0x37+(-#'KFC and watermelon'+(218-(380-0xed))))-(6+-#{(function()return#{('BHKKKo'):find("\75")}>0 and 1 or 0 end);(function()return#{('BHKKKo'):find("\75")}>0 and 1 or 0 end),195;15,(function()return#{('BHKKKo'):find("\75")}>0 and 1 or 0 end)})local I=o[e[(-#"I am monoegg"+(0x4f9f/109))]][e[" ​      "]];local y=((-#"heil eco mother fuckers"+((((-120+0xda0)/4)+-#'Alma Alma')/0x77))+17)+(50/0x19)local B=o[e[(113100/0xc3)]][e["             "]]local d=(0x1ac/214)-(-#"MSC 793z487nhvcgsdfgsudfza9889jgvz56gz56z547684z5g54z948g56z74j56475jzg645z6456 oh wait bitch"+(233-((-#[[goofy ahh uncle productions]]+((-0x79+18)+359))+-90)))local x=((83-((0x94+((144/(0xa0-124))+-#[[Uh summa lumma dooma lumma you assumin Im a human]]))+-#'imagine not being able to talk'))+-#"Hey skid")local f=(7+-#{'}','}','nil';(function()return#{('FBpPBf'):find("\112")}>0 and 1 or 0 end),(function()return#{('FBpPBf'):find("\112")}>0 and 1 or 0 end)})local c=(-#{'}','}';{},(function()return#{('lMfkpO'):find("\102")}>0 and 1 or 0 end),",",","}+8)local m=(0x7a-(-#"impulse is hot"+(((-#[[You have been banned from Cfx re network]]+(0x11af1+-21))/0xde)-192)))local k=((((4578+-#{{};(function()return{','}end)();'nil',88;'nil';(function()return{','}end)();'}'})-0x905)/0xae)+-#'monkey mode')local h=(430/(222+-#{",";170,(function()return#{('oBhmmK'):find("\104")}>0 and 1 or 0 end),(function()return#{('oBhmmK'):find("\104")}>0 and 1 or 0 end),(function()return{','}end)(),1,(function()return#{('oBhmmK'):find("\104")}>0 and 1 or 0 end)}))local t=(-#{(function()return{','}end)();",",(function()return#{('blllHf'):find("\108")}>0 and 1 or 0 end)}+6)local O=(((((195+-#{{},'}',{};'}';1;{},{}})+-44)+-#"I am monoegg")-0x6b)+-#"windows xp startup sfx")local b=(0x7e-(0x21a2/(74+-#{61,'nil';61,144})))local U=(531/((-#{122;(function()return#{('kmFKpF'):find("\70")}>0 and 1 or 0 end),75,'nil',1}+30980)/175))local u=(-#{{};",",","}+6)local s=(112-((((640+-#{{},165,'nil',(function()return{','}end)();165,'}'})-376)+-#[[keno 0347 is a nerdy fag]])-125))local S=(-#[[really nigga]]+(0x69-((((-#"ambatakum"+((-0x77+111480)-0xd9b4))/180)-0xb0)+-#'Apoio pela legalização de web sexo no Roblox')))local D=(((1270+-#{87;{};87;1,1;(function()return{','}end)()})/0x10)+-#[[brawl stars hard gay porn shelly nsked minecraft gay porn roblox rule34 hot]])local _=((0x18f2/((-#{",",'}';'nil';(function()return{','}end)(),(function()return{','}end)()}+7833)/76))+-#"papier der afghaner wurde von nice dem bombenleger gefickt")local C=((-0x7f+(201+(-0x6b+(184+(-0x50e4/167)))))+-#[[Macaroni And The Cheese]])local N=(9+-#{142;'}';1;1,{}})local g=(7+-#{{},'}';24})local W=e[(0x1e1b6/93)];local L=o[e[(180+-#{'nil','}','nil',1,{}})]][e["  ​     "]];local q=o[(function(e)return type(e):sub(1,1)..'\101\116'end)('        ')..'\109\101'..('\116\97'or'​   ​  ​')..e[((0x125b0/(299-0xac))+-#"impulse 2022")]];local j=o[e[((105000/0xaf)+-#[[Impulse youtube real]])]][e["               ​"]];local v=(0x158/172)-(66-((9744/0x57)+-48))local p=((-0x3a+(-#'meme strings be like'+(-450/0x1e)))+0x5f)-(-#[[W4rboy was here]]+(2023/0x77))local H=o[e[(((-0x6d+430)+-#[[if syn request then print your mom then end and then kill yourself]])+-80)]][e["          ​      "]];local n=function(o,e)return o..e end local z=(-#'me and the monkey'+(42/0x2))*(-#'furries should die'+(0x54-((416-0xfc)+-0x66)))local F=o[e["           ​      "]];local a=(-#'fun fact if you want to say discord just type Discord with a capital D boom'+(0x3bdb/199))*(((561875/(625/0x19))/155)+-#'beliveri12 is gay')local K=(2102-0x436)*(-#"abortion is a right dont take it away in the USA date 2022"+((-#"this is a meme string"+(0xb29c8/(-91+0xa3)))/0xa9))local Y=(((-#[[keno 0347 is a nerdy fag]]+((-98+0x21)+0x14f))-167)+-#"if syn then haxor alert end")local M=((0xcfd/(0xbd-154))-0x5d)*(-63+0x41)local w=o[e[" ​       "]]or o[e[(-118+0x2ba)]][e[" ​       "]];local r=(36864/(16704/(18560/0xa0)))local e=o[e["        "]];local A=(function(a)local r,l=3,0x10 local o={j={},v={}}local n=-d local e=l+i while true do o[a:sub(e,(function()e=r+e return e-i end)())]=(function()n=n+d return n end)()if n==(z-d)then n=""l=v break end end local n=#a while e<n+i do o.v[l]=a:sub(e,(function()e=r+e return e-i end)())l=l+d if l%P==v then l=p j(o.j,(H((o[o.v[p]]*z)+o[o.v[d]])))end end return B(o.j)end)("..:::MoonSec::..                ​                    ​ ​                       ​       ​   ​      ​                                                                                       ​    ​  ​                                ​       ​​      ​              ​               ​                           ​                                          ​  ​          ​                    ​     ​                     ​      ​     ​                   ​     ​​                  ​            ​                 ​​                              ​      ​              ​         ​            ​                                       ​                                    ​                                                                  ​​                                                 ​                              ​                             ​          ​           ​                             ​                                    ​   ​       ​                       ​  ​                           ​        ​                    ​                             ​                          ​​                              ​​   ​                                ​             ​           ​            ​                                       ​      ​                                                       ​    ​        ​               ​                             ​                               ​​                         ​    ​                             ​           ​              ​                ​         ​                            ​                                 ​     ​                     ​                               ​                            ​                          ​                                                                     ​                         ​   ​       ​                                       ​   ​           ​            ​          ​                                    ​     ​         ​                     ​       ​​                             ​​                              ​    ​                            ​                                ​            ​                                                    ​                   ​                          ​        ​                      ​                   ​         ​                            ​                             ​                              ​      ​                        ​            ​                                        ​                                                                           ​                ​                     ​        ​                             ​​                              ​    ​                         ​          ​                  ​            ​ ​ ​                                  ​   ​                                       ​                            ​                              ​              ​             ​        ​             ​     ​                                      ​                       ​      ​         ​                              ​       ​                   ​         ​  ​    ​                                                              ​                                    ​ ​        ​                                  ​​                           ​  ​ ​                         ​                               ​          ​       ​           ​                           ​                               ​  ​                                 ​​   ​                   ​                               ​      ​                                                        ​​                                ​      ​                                   ​                                                                      ​       ​           ​       ​                             ​     ​                   ​          ​                             ​​                   ​            ​    ​                        ​          ​                            ​          ​         ​                      ​                                        ​                             ​                                               ​    ​        ​​                       ​     ​                              ​​                              ​       ​                                     ​      ​           ​                  ​                           ​        ​                                                    ​      ​      ​       ​                       ​                                 ​                ​            ​​               ​            ​                   ​                                                             ​    ​       ​​                         ​               ​            ​         ​                     ​          ​              ​                             ​                                                                                          ​            ​                           ​            ​                                      ​           ​           ​                 ​     ​                             ​       ​​                           ​                            ​                               ​                      ​     ​  ​             ​         ​  ​                     ​   ​                            ​  ​                            ​        ​                      ​               ​       ​      ​                             ​    ​                                                    ​   ​ ​ ​       ​             ​                                                     ​                                                            ​ ​                      ​​          ​                   ​             ​ ​  ​                                      ​        ​          ​               ​                                                    ​                        ​            ​                     ​                                                    ​                     ​                                                       ​     ​                                 ​​                   ​                  ​                        ​            ​                                        ​                                       ​    ​                                                ​                            ​                           ​​                              ​    ​           ​            ​          ​ ​                ​                ​          ​                          ​                             ​  ​                                                   ​   ​                      ​         ​                          ​       ​                       ​​         ​                    ​       ​      ​                                     ​                 ​                                                                                                           ​                     ​              ​                       ​​                       ​     ​    ​     ​                    ​          ​     ​                              ​          ​                          ​                            ​  ​                           ​          ​                    ​              ​                                         ​                                   ​​         ​             ​    ​      ​         ​               ​            ​      ​                ​             ​                                                                                       ​​                     ​             ​                       ​                                ​    ​                         ​          ​                 ​                            ​              ​            ​                                                                             ​                                ​                ​    ​        ​         ​                  ​   ​          ​​            ​                                                 ​        ​                                                    ​                                            ​               ​ ​                                                       ​                                    ​          ​                                                  ​                     ​          ​   ​     ​                             ​          ​                ​                              ​                      ​                                  ​                ​               ​            ​  ​                                                  ​   ​                             ​                           ​                     ​       ​                                                                                         ​                 ​          ​    ​     ​                      ​  ​               ​                  ​    ​                            ​                             ​        ​                                                ​                         ​          ​                                   ​                                                                               ​                                 ​        ​    ​               ​                         ​            ​                     ​  ​                          ​                                                 ​        ​                       ​                                                             ​        ​                  ​         ​                                                                     ​      ​     ​                       ​        ​                                                                ​  ​  ​ ​   ​       ​                                                        ​                                                      ​           ​            ​    ​                 ​                                        ​  ​                                ​                                          ​                                          ​                                    ​                                    ​       ​                     ​   ​     ​               ​             ​                       ​      ​    ​                                                             ​   ​                           ​             ​                 ​                                                      ​      ​                        ​        ​ ​ ​    ​              ​                     ​                  ​           ​        ​               ​       ​             ​                                                                  ​              ​                                         ​                  ​ ​          ​​                  ​         ​                              ​                 ​        ​                           ​                        ​                                 ​                                                           ​                                       ​                                                               ​      ​​      ​          ​​            ​                                                ​                   ​            ​                             ​     ​​                                                                            ​        ​     ​         ​               ​           ​ ​         ​​  ​                 ​  ​                              ​       ​​ ​         ​    ​    ​                            ​           ​                                                  ​         ​                           ​                                         ​                 ​        ​   ​                  ​                              ​                                                            ​  ​                       ​​                 ​         ​                    ​                        ​                                ​     ​                                                             ​         ​         ​       ​                                   ​       ​​          ​                     ​         ​     ​   ​                       ​​               ​     ​                 ​              ​                         ​       ​      ​             ​                   ​                          ​             ​                     ​        ​                                                                   ​​    ​                                    ​              ​             ​​​                                            ​                                             ​​   ​          ​ ​          ​                                           ​              ​            ​                                ​              ​  ​            ​                             ​                      ​     ​                                                                                                                                              ​                         ​                                      ​​                                                                                            ​         ​             ​          ​                 ​          ​                ​    ​       ​   ​                      ​   ​                               ​                ​          ​          ​                                ​  ​                      ​              ​   ​ ​     ​              ​                             ​         ​           ​          ​        ​                                                 ​      ​   ​                 ​      ​​    ​   ​                   ​                                                                                              ​               ​                    ​                       ​                ​                                ​    ​                                    ​        ​                             ​                                ​    ​   ​                                 ​                               ​                             ​                              ​                            ​             ​                ​​                                    ​                                      ​                             ​        ​ ​                                     ​                       ​               ​               ​                       ​        ​                        ​    ​                              ​                                           ​            ​     ​      ​         ​​        ​                            ​   ​                        ​     ​  ​     ​             ​   ​    ​        ​                         ​              ​           ​                            ​                                  ​​           ​      ​        ​                               ​               ​                                       ​                                       ​                                         ​          ​    ​                    ​       ​                                  ​         ​                   ​                   ​                                      ​                            ​                          ​   ​                              ​  ​                     ​                 ​ ​                     ​                ​             ​            ​                                                                            ​                             ​             ​                                    ​                                    ​                          ​                ​                          ​      ​​       ​                               ​​                              ​​   ​                       ​                               ​                ​         ​                        ​                         ​           ​            ​      ​                   ​                     ​         ​    ​             ​                           ​                            ​        ​                       ​       ​                            ​                                                            ​                              ​​      ​                                     ​               ​                       ​       ​                               ​                                                    ​                                        ​                               ​  ​                       ​            ​          ​   ​    ​  ​         ​                                ​             ​         ​  ​           ​       ​      ​     ​​                 ​      ​                       ​   ​    ​                                     ​                        ​            ​                                       ​        ​                              ​                       ​              ​     ​         ​ ​                         ​                           ​                                                                            ​                                  ​        ​                            ​   ​                      ​            ​                                      ​            ​          ​                ​               ​         ​                ​                                    ​                ​               ​                        ​            ​                                    ​                  ​         ​        ​     ​                                ​                                 ​​      ​                            ​​                                                  ​​  ​     ​                              ​      ​         ​          ​  ​                            ​                                        ​       ​                     ​ ​      ​     ​                ​              ​           ​                                                        ​        ​​                                                          ​                               ​                     ​                                      ​                                          ​               ​                    ​​      ​                             ​​                                               ​                                   ​     ​                ​        ​  ​              ​      ​   ​      ​                     ​     ​  ​     ​             ​​   ​             ​                     ​              ​              ​                  ​          ​                              ​​                           ​      ​  ​                      ​            ​       ​                          ​                 ​                     ​                                         ​          ​                ​            ​                     ​    ​                     ​     ​                                               ​       ​         ​                  ​        ​                         ​  ​   ​                                ​                              ​        ​                     ​               ​            ​                            ​                         ​     ​                          ​   ​         ​                    ​            ​                   ​                  ​                                     ​     ​                               ​                ​                   ​​      ​                     ​      ​​         ​                                     ​         ​                             ​         ​      ​         ​                          ​   ​    ​                          ​ ​                   ​​       ​        ​                      ​              ​              ​         ");local B=(-#"how do i get moonsex v3"+(3608/0x2c))local o=70 local l=d;local e={}e={[((0x478/104)+-#"Give Robux")]=function()local e,n,d,i=I(A,l,l+y);l=l+M;o=(o+(B*M))%r;return(((i+o-(B)+a*(M*P))%a)*((P*K)^P))+(((d+o-(B*P)+a*(P^y))%r)*(a*r))+(((n+o-(B*y)+K)%r)*a)+((e+o-(B*M)+K)%r);end,[(0x4c-(-#[[Crackzzzz]]+(0x412b/201)))]=function(e,e,e)local e=I(A,l,l);l=l+i;o=(o+(B))%r;return((e+o-(B)+K)%a);end,[(-0x33+54)]=function()local e,n=I(A,l,l+P);o=(o+(B*P))%r;l=l+P;return(((n+o-(B)+a*(P*M))%a)*r)+((e+o-(B*P)+r*(P^y))%a);end,[(-#"i bought a boost for this string"+(0x63-63))]=function(l,e,o)if o then local e=(l/P^(e-d))%P^((o-i)-(e-d)+i);return e-e%d;else local e=P^(e-i);return(l%(e+e)>=e)and d or p;end;end,[(-#[[waste of sperm]]+(0x107a/222))]=function()local o=e[((0xeea/(221+-0x37))+-#'sussy chat sussy sussy')]();local n=e[(-0x6c+109)]();local c=d;local l=(e[(-#[[0nly 1337 smashed ur wap]]+((-#"MSC 793z487nhvcgsdfgsudfza9889jgvz56gz56z547684z5g54z948g56z74j56475jzg645z6456 oh wait bitch"+(10630-0x14ed))/0xb9))](n,i,z+M)*(P^(z*P)))+o;local o=e[(105-0x65)](n,21,31);local e=((-d)^e[(0x354/213)](n,32));if(o==p)then if(l==v)then return e*p;else o=i;c=v;end;elseif(o==(a*(P^y))-i)then return(l==p)and(e*(i/v))or(e*(p/v));end;return T(e,o-((r*(M))-d))*(c+(l/(P^Y)));end,[((-0x7a+190)+-#"I like watching videos of black men shaking their booty cheeks")]=function(n,c,c)local c;if(not n)then n=e[(-#'real roblox omg builderman caught playing real'+(148+-0x65))]();if(n==p)then return'';end;end;c=L(A,l,l+n-d);l=l+n;local e=''for l=i,#c do e=W(e,H((I(L(c,l,l))+o)%r))o=(o+B)%a end return e;end}local function L(...)return{...},F('#',...)end local function A()local t={};local b={};local o={};local x={t,b,nil,o};local l={}local k=(-#[[Luraph v13 has been released changed absolutely fucking nothing]]+(0xb6+-20))local n={[(-#'You say is ricochetin off of me and itll glue to you and'+(708/0xc))]=(function(o)return not(#o==e[(-#'ÑÑÑÑÑÑÑ'+(0x666/182))]())end),[(0x59+-88)]=(function(o)return e[(0x5d-88)]()end),[(-87+0x59)]=(function(o)return e[((0x6f-(-#[[goofy ahh uncle productions]]+(214+-0x5d)))+-#'nicowashere')]()end),[(-28+0x1c)]=(function(o)local n=e[(0xde/37)]()local o=''local e=1 for l=1,#n do e=(e+k)%r o=W(o,H((I(n:sub(l,l))+e)%a))end return o end)};for e=i,e[((-124+0x91)+-#'meme strings be like')]()do b[e-i]=A();end;local o=e[(87/0x57)]()for o=1,o do local e=e[(-27+((238-0xaa)+-#'psx real dupe steal all ur pets no joke'))]();local d;local e=n[e%(0xb58/121)];l[o]=e and e({});end;for x=1,e[(-#'You are an absolute baboon'+(-88+0x73))]()do local o=e[(81-0x4f)]();if(e[((311-0xbe)-0x75)](o,d,i)==v)then local a=e[(((-#"ÑÑÑÑÑÑÑ"+(0x1126+-95))/134)+-#'number 15 you get no bitches')](o,P,y);local n=e[((2724/0xe3)+-#'whats up')](o,M,P+M);local o={e[((0x7d-102)+-#[[loading trojan horse]])](),e[(0x37-52)](),nil,nil};local r={[(0/0x74)]=function()o[s]=e[(0x51-78)]();o[C]=e[(0xae/58)]();end,[((0xa9d/143)/0x13)]=function()o[s]=e[((434-0x114)/0x9e)]();end,[(76-0x4a)]=function()o[O]=e[(0x78/120)]()-(P^z)end,[((6710/(0x99+-31))+-#"If LocalPlayer equals Dumbass then while true do end")]=function()o[O]=e[((0x7fe/62)+-#[[Me be like at 5am in the morning]])]()-(P^z)o[g]=e[(-0x43+(0xb7-113))]();end};r[a]();if(e[(608/0x98)](n,i,d)==i)then o[h]=l[o[c]]end if(e[(240/0x3c)](n,P,P)==d)then o[s]=l[o[U]]end if(e[(-80+0x54)](n,y,y)==i)then o[S]=l[o[D]]end t[x]=o;end end;x[3]=e[((742/0x35)+-#"Lana Rhoades")]();return x;end;local function z(e,M,B)local o=e[P];local r=e[y];local a=e[d];return(function(...)local e=d e*=-1 local y=e;local l={};local K=F('#',...)-i;local H={};local A={...};local p={};local a=a;local I=o;local o=d;local r=r;local v=L for e=0,K do if(e>=r)then H[e-r]=A[e+i];else l[e]=A[e+d];end;end;local e=K-r+d local e;local r;while true do e=a[o];r=e[(0x2/2)];n=(9424365)while r<=(2074/(-105+0x8b))do n-= n n=(11053062)while r<=(-0x19+(11110/0xca))do n-= n n=(11214955)while r<=(0x34+-38)do n-= n n=(1655491)while r<=((0x6c-90)+-#"Suck Sus0587")do n-= n n=(10359099)while(0x31-47)>=r do n-= n n=(4141683)while(-#"made by kim jong un"+(160-0x8d))>=r do n-= n local r;local n;M[e[s]]=l[e[m]];o=o+d;e=a[o];n=e[f];r=l[e[u]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[f]]=e[O];o=o+d;e=a[o];l[e[f]]=e[b];o=o+d;e=a[o];n=e[h]l[n]=l[n](w(l,n+d,e[O]))o=o+d;e=a[o];if not l[e[h]]then o=o+i;else o=e[s];end;break;end while 2723==(n)/((0xc09-1560))do n=(5140981)while((171-0x94)+-#'nononono listen listen')<r do n-= n l[e[h]]=l[e[b]]%e[_];break end while 4007==(n)/((-#'blinx1 is a sissy little femboy that loves men'+(2784-0x5af)))do l[e[m]]=#l[e[s]];break end;break;end break;end while 2799==(n)/((-#'while wait 1 do print deez end'+(7498-0xeb7)))do n=(2734056)while(0x30/12)>=r do n-= n n=(3876432)while(0x35+-50)<r do n-= n local r;local n;n=e[c]l[n](w(l,n+i,e[b]))o=o+d;e=a[o];n=e[x];r=l[e[O]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[k]]=e[t];o=o+d;e=a[o];n=e[f]l[n]=l[n](w(l,n+d,e[u]))o=o+d;e=a[o];n=e[m];r=l[e[u]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[h]]=e[b];o=o+d;e=a[o];n=e[c]l[n]=l[n](w(l,n+d,e[t]))o=o+d;e=a[o];l[e[h]]=e[b];o=o+d;e=a[o];l[e[m]]=e[u];o=o+d;e=a[o];l[e[h]]=e[U];break end while 1162==(n)/((0x95dc0/184))do local e=e[x]l[e]=l[e](w(l,e+d,y))break end;break;end while 3588==(n)/((-#[[Niggabyte]]+(874+-0x67)))do n=(4903910)while(29+-0x18)<r do n-= n l[e[h]]=M[e[U]];break end while 2045==(n)/((4828-0x97e))do if not l[e[c]]then o=o+i;else o=e[O];end;break end;break;end break;end break;end while(n)/((-113+0xf0a))==443 do n=(8366141)while r<=(0x30-(103-0x41))do n-= n n=(4520607)while r<=(968/0x79)do n-= n n=(4851336)while r>(-#"Its not hip hop its pop cause I found a hella way to fuse it"+(0xdb-152))do n-= n B[e[s]]=l[e[k]];break end while(n)/(((0x1e27-3905)+-#'I like watching videos of black men shaking their booty cheeks'))==1293 do local o=e[m]l[o]=l[o](w(l,o+d,e[U]))break end;break;end while(n)/((0xadfa/26))==2639 do n=(11187345)while r>(((0x2ae3-5529)/0x6d)+-#'hey guys do you remember the jar of latex')do n-= n local o=e[h];local n=l[o];for e=o+1,e[U]do j(n,l[e])end;break end while(n)/((-#'Cock and ball tortue'+((-4563/0x75)+4076)))==2785 do l[e[f]]=l[e[U]][l[e[N]]];break end;break;end break;end while 3017==(n)/((5647-(2965+-0x5b)))do n=(11816640)while(0x78+(-1080/0xa))>=r do n-= n n=(2881928)while r>(2277/0xcf)do n-= n o=e[s];break end while 2968==(n)/((-65+0x40c))do local r;local n;n=e[m]l[n]=l[n](w(l,n+d,e[U]))o=o+d;e=a[o];l[e[k]]=l[e[b]][e[C]];o=o+d;e=a[o];l[e[m]]=B[e[s]];o=o+d;e=a[o];n=e[h];r=l[e[u]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[x]]=e[u];o=o+d;e=a[o];n=e[c]l[n]=l[n](w(l,n+d,e[s]))o=o+d;e=a[o];n=e[c];r=l[e[t]];l[n+1]=r;l[n]=r[e[g]];o=o+d;e=a[o];l[e[k]]=l[e[O]];o=o+d;e=a[o];n=e[k]l[n]=l[n](w(l,n+d,e[b]))o=o+d;e=a[o];l[e[k]]=l[e[U]][e[N]];break end;break;end while 3520==(n)/(((6886-0xdad)+-#"10 black dicks in your mouth"))do n=(1558544)while((125970/0x26)/0xff)<r do n-= n local a=e[f];local d={};for e=1,#p do local e=p[e];for o=0,#e do local e=e[o];local n=e[1];local o=e[2];if n==l and o>=a then d[o]=n[o];e[1]=d;end;end;end;break end while(n)/((0x2fa0/((516/0xc)+-#'Deeznutsbutinlualoo')))==3068 do l[e[m]][e[U]]=l[e[N]];break end;break;end break;end break;end break;end while(n)/((0x1df8-3887))==2963 do n=(196869)while((-0x3d+22)+0x3d)>=r do n-= n n=(1220021)while r<=((117+-0x45)+-#"testing this thingy lololollez")do n-= n n=(693521)while(2496/0x9c)>=r do n-= n n=(9574098)while(0x95-134)<r do n-= n local o=e[x]local a={l[o](l[o+1])};local n=0;for e=o,e[D]do n=n+d;l[e]=a[n];end break end while 2371==(n)/((0xdcd40/224))do local r;local n;l[e[x]]=l[e[u]][e[D]];o=o+d;e=a[o];l[e[x]]=l[e[s]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[C]];o=o+d;e=a[o];n=e[f]l[n](w(l,n+i,e[u]))o=o+d;e=a[o];l[e[h]]=l[e[u]][e[_]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[c]]=l[e[t]][e[N]];o=o+d;e=a[o];n=e[k];r=l[n];for e=n+1,e[O]do j(r,l[e])end;break end;break;end while(n)/(((0x1d1-243)+-#[[Generated by nicuses right ball]]))==3631 do n=(1899950)while r>(-0x43+84)do n-= n l[e[c]]={};break end while 2054==(n)/((-#'balls'+(0x76d-971)))do local e=e[k]l[e]=l[e](w(l,e+d,y))break end;break;end break;end while 2167==(n)/((-#"Alma Alma"+(601+-0x1d)))do n=(7259409)while r<=((0x13f3-2587)/126)do n-= n n=(2871078)while r>(3135/0xa5)do n-= n local M;local r;local c;local n;l[e[f]]=B[e[b]];o=o+d;e=a[o];l[e[m]]=l[e[U]][e[_]];o=o+d;e=a[o];n=e[f];c=l[e[u]];l[n+1]=c;l[n]=c[e[N]];o=o+d;e=a[o];l[e[h]]=l[e[u]];o=o+d;e=a[o];l[e[k]]=l[e[b]];o=o+d;e=a[o];n=e[k]l[n]=l[n](w(l,n+d,e[U]))o=o+d;e=a[o];n=e[f];c=l[e[O]];l[n+1]=c;l[n]=c[e[D]];o=o+d;e=a[o];n=e[f]l[n]=l[n](l[n+i])o=o+d;e=a[o];r={l,e};r[i][r[P][f]]=r[d][r[P][_]]+r[i][r[P][b]];o=o+d;e=a[o];l[e[x]]=l[e[U]]%e[g];o=o+d;e=a[o];n=e[x]l[n]=l[n](l[n+i])o=o+d;e=a[o];c=e[U];M=l[c]for e=c+1,e[g]do M=M..l[e];end;l[e[k]]=M;o=o+d;e=a[o];r={l,e};r[i][r[P][h]]=r[d][r[P][g]]+r[i][r[P][s]];o=o+d;e=a[o];l[e[k]]=l[e[t]]%e[C];break end while 1379==(n)/((451794/0xd9))do local o=e[m]l[o](w(l,o+i,e[u]))break end;break;end while(n)/((5229-(-127+0xadb)))==2817 do n=(6276818)while(0x501/61)<r do n-= n local n=e[x];local a=l[n+2];local d=l[n]+a;l[n]=d;if(a>0)then if(d<=l[n+1])then o=e[u];l[n+3]=d;end elseif(d>=l[n+1])then o=e[U];l[n+3]=d;end break end while(n)/((-#"if syn then syn dot request get beliveri12 coma nicuse ass end"+(1965+-0x69)))==3491 do local r;local n;B[e[t]]=l[e[h]];o=o+d;e=a[o];l[e[h]]=B[e[t]];o=o+d;e=a[o];n=e[x];r=l[e[u]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[h]]=e[t];o=o+d;e=a[o];n=e[k]l[n]=l[n](w(l,n+d,e[b]))o=o+d;e=a[o];l[e[h]]=B[e[O]];o=o+d;e=a[o];n=e[h];r=l[e[b]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[h]]=e[s];o=o+d;e=a[o];n=e[k]l[n]=l[n](w(l,n+d,e[u]))o=o+d;e=a[o];n=e[c];r=l[e[U]];l[n+1]=r;l[n]=r[e[S]];break end;break;end break;end break;end while(n)/((1065-0x24a))==411 do n=(1914918)while r<=((126-(287-0xc9))+-#"FranzJPresents")do n-= n n=(986100)while(126-0x66)>=r do n-= n n=(593495)while(-#'pls free synapse x i am gamer girl uwu'+(0x75+-56))<r do n-= n if(l[e[x]]~=l[e[C]])then o=o+i;else o=e[u];end;break end while 217==(n)/(((0x1643-2902)+-#'i finally have my time travelling vehicle to locate moonsex v5'))do local i;local O,U;local r;local n;l[e[c]]=B[e[t]];o=o+d;e=a[o];n=e[f];r=l[e[t]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[f]]=e[s];o=o+d;e=a[o];n=e[c]O,U=v(l[n](w(l,n+1,e[u])))y=U+n-1 i=0;for e=n,y do i=i+d;l[e]=O[i];end;o=o+d;e=a[o];n=e[h]l[n]=l[n](w(l,n+d,y))o=o+d;e=a[o];n=e[h]l[n]=l[n]()o=o+d;e=a[o];l[e[k]]=B[e[s]];o=o+d;e=a[o];n=e[c];r=l[e[s]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[h]]=e[b];o=o+d;e=a[o];n=e[x]l[n]=l[n](w(l,n+d,e[t]))break end;break;end while(n)/((-#[[how to obfuscate plssss help]]+(142398/0x51)))==570 do n=(2077691)while(0x8e-117)<r do n-= n l[e[h]]=l[e[u]][e[S]];break end while 847==(n)/((-45+0x9c2))do l[e[c]]=e[s];break end;break;end break;end while 2634==(n)/((1492-0x2fd))do n=(2499245)while r<=((102-0x42)+-#[[Hey skid]])do n-= n n=(3771297)while r>(143-0x74)do n-= n l[e[x]][e[O]]=l[e[D]];break end while(n)/((0x3732/10))==2669 do if(l[e[k]]<l[e[S]])then o=o+i;else o=e[b];end;break end;break;end while 707==(n)/(((-101+0xe45)+-#[[i fucked your dad]]))do n=(6504921)while r>((-50+(-#[[iPipeh Is My god]]+(4921/0x25)))+-#[[i still cannot find who the fuck asked]])do n-= n local r;local n;l[e[k]]=B[e[t]];o=o+d;e=a[o];l[e[h]]=l[e[U]];o=o+d;e=a[o];n=e[c]l[n](l[n+i])o=o+d;e=a[o];l[e[x]]=l[e[O]][e[N]];o=o+d;e=a[o];n=e[x];r=l[e[t]];l[n+1]=r;l[n]=r[e[S]];break end while(n)/((0x5c864/140))==2403 do l[e[m]]=l[e[O]][l[e[D]]];break end;break;end break;end break;end break;end break;end while 3006==(n)/(((7549-0xef1)+-#[[Please stop hitting my ribcage with a metal bar]]))do n=(49224)while(7695/0xab)>=r do n-= n n=(4059603)while r<=((0x56+-41)+-#"Hey skid")do n-= n n=(1554616)while((-100+0x97)+-#[[Impulse youtube ez]])>=r do n-= n n=(7166456)while(5177/0xa7)>=r do n-= n if(l[e[c]]<l[e[D]])then o=o+i;else o=e[t];end;break;end while(n)/((631664/0xc2))==2201 do n=(400816)while(-#'impulse was here pastebin reel'+(0x1b2/7))<r do n-= n l[e[x]][e[b]]=e[N];break end while 104==(n)/((7764-0xf46))do if(l[e[f]]==l[e[S]])then o=o+i;else o=e[O];end;break end;break;end break;end while(n)/(((-70+((0xd25+-118)+-#"While true"))+-#"psx real dupe steal all ur pets no joke"))==497 do n=(7238868)while(0x78-85)>=r do n-= n n=(11120109)while r>(0x2068/244)do n-= n local r;local n;l[e[k]]=M[e[b]];o=o+d;e=a[o];n=e[f];r=l[e[u]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[h]]=e[b];o=o+d;e=a[o];n=e[m]l[n]=l[n](w(l,n+d,e[t]))o=o+d;e=a[o];n=e[m];r=l[e[t]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[h]]=M[e[U]];o=o+d;e=a[o];n=e[f]l[n](w(l,n+i,e[O]))o=o+d;e=a[o];l[e[h]]=M[e[U]];o=o+d;e=a[o];n=e[c];r=l[e[s]];l[n+1]=r;l[n]=r[e[g]];o=o+d;e=a[o];l[e[f]]=e[U];o=o+d;e=a[o];n=e[c]l[n]=l[n](w(l,n+d,e[u]))o=o+d;e=a[o];n=e[c];r=l[e[s]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[f]]=M[e[s]];o=o+d;e=a[o];n=e[x]l[n](w(l,n+i,e[O]))o=o+d;e=a[o];l[e[x]]=B[e[t]];o=o+d;e=a[o];l[e[h]]=M[e[b]];o=o+d;e=a[o];n=e[k]l[n](l[n+i])o=o+d;e=a[o];do return end;break end while(n)/((-#'lego hax'+(0xbd5af/(-#"im gay"+(0x93d/11)))))==3003 do local r;local n;l[e[x]][e[b]]=l[e[_]];o=o+d;e=a[o];n=e[f]l[n](w(l,n+i,e[U]))o=o+d;e=a[o];n=e[k];r=l[e[s]];l[n+1]=r;l[n]=r[e[g]];o=o+d;e=a[o];l[e[m]]=e[O];o=o+d;e=a[o];n=e[f]l[n]=l[n](w(l,n+d,e[s]))o=o+d;e=a[o];n=e[f];r=l[e[b]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[k]][e[u]]=e[g];o=o+d;e=a[o];l[e[k]][e[u]]=e[C];break end;break;end while 2548==(n)/((-31+0xb38))do n=(2009304)while r>(0x678/46)do n-= n l[e[x]]=(e[u]~=0);o=o+i;break end while 946==(n)/((-#"pairu sucks dick"+(2207+-0x43)))do do return l[e[c]]end break end;break;end break;end break;end while 1503==(n)/((2744+-0x2b))do n=(11973002)while(-#"luraph deobfuscator"+(4920/0x52))>=r do n-= n n=(13386792)while(-100+0x8b)>=r do n-= n n=(9500535)while(141+-0x67)<r do n-= n do return end;break end while 3387==(n)/((384285/0x89))do M[e[U]]=l[e[m]];break end;break;end while(n)/((0x1bd3-3589))==3788 do n=(495362)while r>(87+-0x2f)do n-= n local e={l,e};e[i][e[P][x]]=e[d][e[P][S]]+e[i][e[P][u]];break end while(n)/((8323/0x1d))==1726 do local r;local s;local b;local n;l[e[f]]=l[e[t]][e[C]];o=o+d;e=a[o];n=e[k];b=l[e[u]];l[n+1]=b;l[n]=b[e[D]];o=o+d;e=a[o];l[e[f]]=M[e[U]];o=o+d;e=a[o];n=e[c]l[n](w(l,n+i,e[U]))o=o+d;e=a[o];l[e[c]]=B[e[O]];o=o+d;e=a[o];l[e[h]]=B[e[O]];o=o+d;e=a[o];l[e[x]]=e[t];o=o+d;e=a[o];n=e[h]s={l[n](w(l,n+1,e[t]))};r=0;for e=n,e[C]do r=r+d;l[e]=s[r];end o=o+d;e=a[o];if l[e[f]]then o=o+d;else o=e[O];end;break end;break;end break;end while 3866==(n)/((3122+-0x19))do n=(3337623)while r<=(173-(-0x59+219))do n-= n n=(7183520)while r>(-#[[Protected vírus]]+(0x94-91))do n-= n o=e[t];break end while 2720==(n)/((203357/0x4d))do local n=e[c]local a={l[n](l[n+1])};local o=0;for e=n,e[D]do o=o+d;l[e]=a[o];end break end;break;end while 3231==(n)/((61980/0x3c))do n=(2589370)while((-37+0xad)-92)<r do n-= n l[e[m]]=l[e[U]]-l[e[S]];break end while(n)/((842457/(0xd071/231)))==710 do l[e[c]]=z(I[e[O]],nil,B);break end;break;end break;end break;end break;end while(n)/(((0x4c8138/62)/0x5c))==56 do n=(2322880)while r<=(0x9f-106)do n-= n n=(4028796)while((-#"brawl stars hard gay porn shelly nsked minecraft gay porn roblox rule34 hot"+(2000/0x8))+-0x7e)>=r do n-= n n=(10690074)while((118+-0x37)+-#"atakan der nigga")>=r do n-= n n=(3035448)while(-#"0nly 1337 smashed ur wap"+(0x76+-48))<r do n-= n local n=e[u];local o=l[n]for e=n+1,e[C]do o=o..l[e];end;l[e[x]]=o;break end while(n)/((0x3cdc8/204))==2484 do M[e[s]]=l[e[k]];break end;break;end while(n)/((-#'gay men'+(138204/0x2c)))==3411 do n=(632079)while(142+-0x5e)<r do n-= n local o=e[c]local n,e=v(l[o](w(l,o+1,e[b])))y=e+o-1 local e=0;for o=o,y do e=e+d;l[o]=n[e];end;break end while 553==(n)/((-65+0x4b8))do l[e[m]]=B[e[b]];break end;break;end break;end while 4086==(n)/((0x82c-1106))do n=(9384000)while r<=(-#"im gay"+(112+-0x37))do n-= n n=(8944301)while r>(-#"2406924069240 your mom is gay af lol"+(7482/0x57))do n-= n if not l[e[f]]then o=o+i;else o=e[t];end;break end while 3397==(n)/((2729+-0x60))do local o=e[h]local n,e=v(l[o](w(l,o+1,e[s])))y=e+o-1 local e=0;for o=o,y do e=e+d;l[o]=n[e];end;break end;break;end while(n)/((-#'niggers'+(0x3f3f9/95)))==3450 do n=(3800731)while(-#[[stfu furry]]+(227-0xa5))<r do n-= n l[e[m]]=(e[U]~=0);break end while 1111==(n)/((-85+0xdb2))do l[e[k]]=B[e[s]];break end;break;end break;end break;end while 952==(n)/((485560/0xc7))do n=(703936)while r<=(-97+0x9a)do n-= n n=(819564)while r<=(13255/0xf1)do n-= n n=(4665438)while r>(0x71+-59)do n-= n local e=e[c]l[e]=l[e](l[e+i])break end while(n)/((-0x44+2855))==1674 do local e={l,e};e[i][e[P][h]]=e[d][e[P][g]]+e[i][e[P][t]];break end;break;end while 1257==(n)/((117360/0xb4))do n=(7799550)while(175-0x77)<r do n-= n if(l[e[m]]~=e[N])then o=o+i;else o=e[O];end;break end while 4075==(n)/((0x7e0+-102))do local o=e[h]l[o](w(l,o+i,e[O]))break end;break;end break;end while(n)/((0x580-761))==1088 do n=(1139600)while r<=(-#'IP grabbed'+(12627/0xb7))do n-= n n=(2351040)while(-#'never gonna give you up never gonna let you down'+(0x125-187))<r do n-= n local r;local n;l[e[x]]=l[e[b]][e[D]];o=o+d;e=a[o];l[e[f]]=l[e[t]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[m]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[h]]=l[e[b]][e[D]];o=o+d;e=a[o];n=e[h];r=l[n];for e=n+1,e[b]do j(r,l[e])end;break end while(n)/((-#'jtoh is cringe ngl'+(3085-0x62b)))==1580 do l[e[k]]=(e[u]~=0);break end;break;end while(n)/(((0x3f6+-111)+-0x17))==1295 do n=(7875740)while(0x2904/(0x717a/166))<r do n-= n if(l[e[c]]~=e[C])then o=o+i;else o=e[b];end;break end while 2833==(n)/(((25182/0x9)+-#[[good googly moogly]]))do l[e[x]]=l[e[b]]%e[g];break end;break;end break;end break;end break;end break;end break;end while 2315==(n)/(((0x1085+-96)+-#'you can pull my IP but you cant pull any bitches fucking loner'))do n=(4125726)while r<=(-#'how do i get moonsex v3'+(26565/(-#[[Daddy fuck me]]+(-118+0x16a))))do n-= n n=(6800920)while(263-0xbb)>=r do n-= n n=(14316120)while((226-0x99)+-#'negus')>=r do n-= n n=(2637006)while r<=(0x7e+-62)do n-= n n=(787546)while(0xe6-168)>=r do n-= n local r;local n;l[e[m]]={};o=o+d;e=a[o];l[e[h]]=e[b];o=o+d;e=a[o];n=e[m];r=l[e[u]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[x]]=l[e[U]];o=o+d;e=a[o];n=e[k]l[n]=l[n](w(l,n+d,e[t]))o=o+d;e=a[o];l[e[c]][e[u]]=l[e[_]];o=o+d;e=a[o];l[e[m]]=e[U];o=o+d;e=a[o];n=e[m];r=l[e[u]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[k]]=l[e[O]];o=o+d;e=a[o];n=e[x]l[n]=l[n](w(l,n+d,e[U]))break;end while(n)/(((-0x5d+13)+0x72a))==449 do n=(5823924)while(0xd7-152)<r do n-= n local c=I[e[O]];local r;local n={};r=q({},{__index=function(o,e)local e=n[e];return e[1][e[2]];end,__newindex=function(l,e,o)local e=n[e]e[1][e[2]]=o;end;});for d=1,e[g]do o=o+i;local e=a[o];if e[(-#'me and the monkey'+(144-0x7e))]==108 then n[d-1]={l,e[t]};else n[d-1]={M,e[U]};end;p[#p+1]=n;end;l[e[m]]=z(c,r,B);break end while 3804==(n)/((0x37b17/149))do local n=e[x];local a=l[n+2];local d=l[n]+a;l[n]=d;if(a>0)then if(d<=l[n+1])then o=e[b];l[n+3]=d;end elseif(d>=l[n+1])then o=e[b];l[n+3]=d;end break end;break;end break;end while 753==(n)/((7064-0xdea))do n=(1624392)while r<=((0x75+-23)+-#'how to obfuscate plssss help')do n-= n n=(2647050)while r>(13065/0xc9)do n-= n local a=e[h];local r=e[g];local n=a+2 local a={l[a](l[a+1],l[n])};for e=1,r do l[n+e]=a[e];end;local a=a[1]if a then l[n]=a o=e[O];else o=o+d;end;break end while(n)/((168000/0xa0))==2521 do local n=e[x]local a={l[n](w(l,n+1,e[b]))};local o=0;for e=n,e[g]do o=o+d;l[e]=a[o];end break end;break;end while 792==(n)/(((0x855+-30)+-#'If LocalPlayer equals Dumbass then while true do end'))do n=(867510)while r>(0xfb4/60)do n-= n B[e[U]]=l[e[x]];break end while(n)/((0xc5c-1634))==567 do local n=e[x];local d=l[n]local a=l[n+2];if(a>0)then if(d>l[n+1])then o=e[O];else l[n+3]=d;end elseif(d<l[n+1])then o=e[b];else l[n+3]=d;end break end;break;end break;end break;end while 3705==(n)/((-0x6d+3973))do n=(1467780)while r<=(0x3888/(0x12d8/24))do n-= n n=(11345392)while r<=(630/0x9)do n-= n n=(5582976)while(0x14c1/77)<r do n-= n local o=e[c]local a={l[o](w(l,o+1,e[s]))};local n=0;for e=o,e[g]do n=n+d;l[e]=a[n];end break end while(n)/(((0x37f60/116)+-0x64))==2976 do B[e[s]]=l[e[x]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];B[e[b]]=l[e[k]];o=o+d;e=a[o];l[e[c]]=B[e[u]];o=o+d;e=a[o];if(l[e[h]]~=e[S])then o=o+i;else o=e[u];end;break end;break;end while 3148==(n)/(((3726+-0x70)+-#[[Give nitro]]))do n=(4643100)while r>((-87+0xa2)+-#[[yiff]])do n-= n local i;local m,u;local r;local n;n=e[f];r=l[e[O]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[c]]=l[e[b]];o=o+d;e=a[o];l[e[k]]=l[e[b]];o=o+d;e=a[o];l[e[h]]=l[e[b]];o=o+d;e=a[o];n=e[k]l[n]=l[n](w(l,n+d,e[U]))o=o+d;e=a[o];n=e[h];r=l[e[t]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[h]]=B[e[s]];o=o+d;e=a[o];n=e[c];r=l[e[O]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[c]]=l[e[t]];o=o+d;e=a[o];n=e[x]m,u=v(l[n](w(l,n+1,e[b])))y=u+n-1 i=0;for e=n,y do i=i+d;l[e]=m[i];end;break end while(n)/(((0xa3a-1349)+-#"Deezbutts"))==3685 do local n;l[e[c]]=e[O];o=o+d;e=a[o];n=e[f]l[n]=l[n](w(l,n+d,e[s]))o=o+d;e=a[o];l[e[c]]=l[e[t]][e[D]];o=o+d;e=a[o];l[e[k]][e[u]]=l[e[S]];o=o+d;e=a[o];o=e[s];break end;break;end break;end while(n)/((503650/0xaf))==510 do n=(10371900)while r<=(9250/0x7d)do n-= n n=(3912468)while(94+-0x15)<r do n-= n local r;local i;local n;l[e[f]]=l[e[t]][e[_]];o=o+d;e=a[o];l[e[x]]=B[e[b]];o=o+d;e=a[o];l[e[x]]=l[e[t]][e[C]];o=o+d;e=a[o];n=e[h]i={l[n](l[n+1])};r=0;for e=n,e[D]do r=r+d;l[e]=i[r];end o=o+d;e=a[o];o=e[t];break end while 1974==(n)/((-#"W4rboy was here"+(-0x3a+((0x10a6-2145)+-#'if syn then syn dot request get beliveri12 coma nicuse ass end'))))do local o=e[k]l[o]=l[o](w(l,o+d,e[U]))break end;break;end while 3850==(n)/(((0xaf9+-104)+-#'nicowashere'))do n=(158212)while r>(2100/0x1c)do n-= n if l[e[m]]then o=o+d;else o=e[b];end;break end while(n)/(((0x184-229)+-#"monkey mode"))==1069 do local r;local n;l[e[x]]=M[e[b]];o=o+d;e=a[o];n=e[f];r=l[e[s]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[f]]=M[e[U]];o=o+d;e=a[o];n=e[k]l[n]=l[n](w(l,n+d,e[u]))o=o+d;e=a[o];l[e[x]]=B[e[b]];o=o+d;e=a[o];l[e[k]]=e[s];o=o+d;e=a[o];l[e[k]]=l[e[t]];o=o+d;e=a[o];n=e[f]l[n](w(l,n+i,e[U]))o=o+d;e=a[o];do return end;break end;break;end break;end break;end break;end while(n)/((1916+-0x64))==3745 do n=(11379456)while r<=(-#"Rodenladder is gay"+(0x66/1))do n-= n n=(1178832)while((419-0x107)+-#"function howtofucknicuse print you cant fuck nicuse sorry haha you noooo end")>=r do n-= n n=(10467468)while(-#"if syn then haxor alert end"+(127+-0x16))>=r do n-= n n=(1843870)while r>(0x34a3/175)do n-= n local i;local r;local n;l[e[f]]=e[t];o=o+d;e=a[o];l[e[m]]=l[e[b]][e[S]];o=o+d;e=a[o];n=e[c]l[n]=l[n](w(l,n+d,e[O]))o=o+d;e=a[o];n=e[h];r=l[e[u]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[x]]=l[e[t]];o=o+d;e=a[o];l[e[k]]=e[t];o=o+d;e=a[o];r=e[u];i=l[r]for e=r+1,e[S]do i=i..l[e];end;l[e[x]]=i;o=o+d;e=a[o];n=e[m]l[n]=l[n](w(l,n+d,e[U]))o=o+d;e=a[o];l[e[c]][e[U]]=l[e[_]];break end while(n)/((606+-0x74))==3763 do local e=e[h]l[e]=l[e](l[e+i])break end;break;end while(n)/((0x1bea-3582))==2937 do n=(2760240)while(-#[[Well thats what they do when they get jealous they confuse it]]+(-35+0xaf))<r do n-= n l[e[c]]=z(I[e[O]],nil,B);break end while 1060==(n)/((-0x3b+2663))do l[e[m]]=#l[e[s]];break end;break;end break;end while(n)/((81464/0x44))==984 do n=(3560448)while(0xb5+-99)>=r do n-= n n=(8368140)while((28440/0xed)+-#[[psx real dupe steal all ur pets no joke]])<r do n-= n if l[e[c]]then o=o+d;else o=e[t];end;break end while 2045==(n)/((((0x109a+-96)+-0x2a)+-#'meme strings be like'))do local r=I[e[U]];local d;local n={};d=q({},{__index=function(o,e)local e=n[e];return e[1][e[2]];end,__newindex=function(l,e,o)local e=n[e]e[1][e[2]]=o;end;});for d=1,e[D]do o=o+i;local e=a[o];if e[(35/0x23)]==108 then n[d-1]={l,e[t]};else n[d-1]={M,e[U]};end;p[#p+1]=n;end;l[e[h]]=z(r,d,B);break end;break;end while 976==(n)/((583680/0xa0))do n=(403635)while(0xbd+-106)<r do n-= n local r;local w;local h;local n;l[e[k]]=M[e[u]];o=o+d;e=a[o];l[e[x]]=l[e[t]][e[D]];o=o+d;e=a[o];n=e[m];h=l[e[U]];l[n+1]=h;l[n]=h[e[_]];o=o+d;e=a[o];n=e[f]l[n]=l[n](l[n+i])o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];M[e[O]]=l[e[x]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];M[e[s]]=l[e[c]];o=o+d;e=a[o];l[e[c]]=B[e[O]];o=o+d;e=a[o];l[e[c]]=l[e[b]];o=o+d;e=a[o];n=e[x]w={l[n](l[n+1])};r=0;for e=n,e[g]do r=r+d;l[e]=w[r];end o=o+d;e=a[o];o=e[U];break end while 379==(n)/((1190+-0x7d))do l[e[m]]=e[s];break end;break;end break;end break;end while 3168==(n)/(((7262-0xe3a)+-#'10 black dicks in your mouth'))do n=(1479912)while(-#'I am monoegg'+(225-0x7d))>=r do n-= n n=(5901285)while r<=(135+-0x31)do n-= n n=(3097206)while(-93+0xb2)<r do n-= n l[e[h]][e[u]]=e[g];break end while(n)/(((0x837-1071)+-#"Smokey BArbecue BAcon BUford from checkers mm"))==3138 do local o=e[m];local n=l[e[u]];l[o+1]=n;l[o]=n[e[S]];break end;break;end while 2855==(n)/(((0x10c2+-41)-2182))do n=(1436864)while(0x111-186)<r do n-= n local r;local n;l[e[h]][e[s]]=l[e[D]];o=o+d;e=a[o];n=e[f]l[n](w(l,n+i,e[u]))o=o+d;e=a[o];n=e[f];r=l[e[O]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];n=e[x]l[n](l[n+i])o=o+d;e=a[o];do return end;break end while 2041==(n)/(((11520/(0x48-56))+-#'iPipeh Is My god'))do local r;local n;n=e[h];r=l[e[b]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[f]]=l[e[u]];o=o+d;e=a[o];n=e[f]l[n]=l[n](w(l,n+d,e[u]))o=o+d;e=a[o];l[e[m]]=l[e[U]];o=o+d;e=a[o];M[e[s]]=l[e[f]];o=o+d;e=a[o];M[e[t]]=l[e[c]];o=o+d;e=a[o];o=e[b];break end;break;end break;end while 552==(n)/((-0x69+2786))do n=(6312501)while(-#[[really nigga]]+(0x2a3c/106))>=r do n-= n n=(1224816)while r>(212-0x7b)do n-= n local i;local r;local n;l[e[c]]=e[t];o=o+d;e=a[o];l[e[h]]=e[s];o=o+d;e=a[o];l[e[k]]=#l[e[U]];o=o+d;e=a[o];l[e[c]]=e[t];o=o+d;e=a[o];n=e[k];r=l[n]i=l[n+2];if(i>0)then if(r>l[n+1])then o=e[U];else l[n+3]=r;end elseif(r<l[n+1])then o=e[b];else l[n+3]=r;end break end while(n)/((103360/0x50))==948 do l[e[c]][l[e[s]]]=l[e[C]];break end;break;end while(n)/((-#'Pyrite On Top'+(4292-0x870)))==2979 do n=(2380968)while(-0x58+179)<r do n-= n local e=e[c]l[e](l[e+i])break end while 1752==(n)/((-#'What I gotta do to get it through to you Im superhuman'+(0x5d4+(-0x18+-55))))do if(l[e[k]]==l[e[D]])then o=o+i;else o=e[O];end;break end;break;end break;end break;end break;end break;end while 2211==(n)/((0x518be/179))do n=(12030072)while r<=((6713/0x31)+-#"imagine not being able to talk")do n-= n n=(2017268)while r<=(24057/(-100+0x157))do n-= n n=(821515)while r<=(-#"impulse was here omg"+(0x115-162))do n-= n n=(1969848)while(-53+0x92)>=r do n-= n local r;local t;local n;n=e[x]l[n](w(l,n+i,e[u]))o=o+d;e=a[o];l[e[c]]=B[e[s]];o=o+d;e=a[o];l[e[h]]=l[e[s]][e[D]];o=o+d;e=a[o];l[e[h]]=l[e[b]];o=o+d;e=a[o];n=e[c]l[n](l[n+i])o=o+d;e=a[o];l[e[f]]={};o=o+d;e=a[o];l[e[f]]={};o=o+d;e=a[o];l[e[c]]=B[e[b]];o=o+d;e=a[o];l[e[m]]=l[e[b]];o=o+d;e=a[o];n=e[f]t={l[n](l[n+1])};r=0;for e=n,e[D]do r=r+d;l[e]=t[r];end break;end while(n)/((-#[[Lana Rhoades]]+(0x1211-2354)))==872 do n=(738300)while(296-(261+-0x3b))<r do n-= n local e=e[h]l[e]=l[e]()break end while(n)/((-#[[Daddy fuck me]]+(0x12ce4/131)))==1284 do local e=e[f]l[e](l[e+i])break end;break;end break;end while(n)/(((17728/0x40)+-#"I like watching videos of black men shaking their booty cheeks"))==3821 do n=(439593)while r<=(0xf6-149)do n-= n n=(1391014)while r>((356-0xd1)+-#[[if found dad when back from milk then print yay end]])do n-= n l[e[k]]=(e[b]~=0);o=o+i;break end while 1654==(n)/((0x1975c/124))do local r;local n;l[e[f]]={};o=o+d;e=a[o];l[e[k]][e[u]]=e[_];o=o+d;e=a[o];l[e[m]][e[U]]=e[N];o=o+d;e=a[o];l[e[x]][e[s]]=e[C];o=o+d;e=a[o];l[e[k]][e[s]]=l[e[_]];o=o+d;e=a[o];n=e[k]l[n](w(l,n+i,e[O]))o=o+d;e=a[o];n=e[c];r=l[e[O]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[x]]={};o=o+d;e=a[o];l[e[h]][e[s]]=e[_];o=o+d;e=a[o];l[e[x]][e[t]]=e[C];break end;break;end while(n)/((34254/0xc6))==2541 do n=(10331865)while r>((-113+0xe1)+-#'dies of cringe')do n-= n local n;l[e[k]]=e[O];o=o+d;e=a[o];n=e[k]l[n]=l[n](w(l,n+d,e[t]))o=o+d;e=a[o];l[e[f]][e[b]]=l[e[C]];o=o+d;e=a[o];l[e[x]]=(e[U]~=0);o=o+d;e=a[o];o=e[O];break end while(n)/((0x1f3a-4043))==2615 do local r;local n;l[e[m]][e[b]]=l[e[N]];o=o+d;e=a[o];n=e[k]l[n](w(l,n+i,e[t]))o=o+d;e=a[o];n=e[k];r=l[e[b]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[k]]=e[b];o=o+d;e=a[o];n=e[h]l[n]=l[n](w(l,n+d,e[t]))o=o+d;e=a[o];l[e[c]]=e[O];o=o+d;e=a[o];n=e[x];r=l[e[u]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[x]]=e[b];o=o+d;e=a[o];l[e[x]]=e[t];o=o+d;e=a[o];n=e[f]l[n]=l[n](w(l,n+d,e[t]))break end;break;end break;end break;end while 836==(n)/((((0x107190-538850)/0xdd)+-#"ive seen your mothers ass"))do n=(3384282)while(-#"howtodumpscript"+(359-0xf1))>=r do n-= n n=(2555176)while(320-0xdb)>=r do n-= n n=(3247704)while(-#[[suck my balls]]+(296-0xb7))<r do n-= n if(l[e[c]]~=l[e[_]])then o=o+i;else o=e[u];end;break end while 3147==(n)/((2107-0x433))do local n=e[c];local r=e[S];local a=n+2 local n={l[n](l[n+1],l[a])};for e=1,r do l[a+e]=n[e];end;local n=n[1]if n then l[a]=n o=e[u];else o=o+d;end;break end;break;end while 1027==(n)/(((-#"moonsec got deobfuscated"+(-20+0xa4c))+-0x68))do n=(759486)while r>(-#[[I make elevating music you make elevator music]]+(0x174-224))do n-= n l[e[k]][l[e[u]]]=l[e[N]];break end while 321==(n)/((0x12f0-2482))do local i;local P,f;local r;local n;n=e[m];r=l[e[s]];l[n+1]=r;l[n]=r[e[g]];o=o+d;e=a[o];l[e[m]]=e[s];o=o+d;e=a[o];n=e[m]l[n]=l[n](w(l,n+d,e[U]))o=o+d;e=a[o];n=e[x];r=l[e[u]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[c]]=l[e[s]][e[N]];o=o+d;e=a[o];n=e[k];r=l[e[s]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[x]]=e[t];o=o+d;e=a[o];n=e[c]P,f=v(l[n](w(l,n+1,e[O])))y=f+n-1 i=0;for e=n,y do i=i+d;l[e]=P[i];end;o=o+d;e=a[o];n=e[h]l[n]=l[n](w(l,n+d,y))o=o+d;e=a[o];l[e[x]]=l[e[b]][e[D]];break end;break;end break;end while 1034==(n)/((6606-0xd05))do n=(5992201)while r<=(-0x17+128)do n-= n n=(7375230)while r>((737-0x197)-0xe2)do n-= n local a=e[f];local d={};for e=1,#p do local e=p[e];for o=0,#e do local e=e[o];local n=e[1];local o=e[2];if n==l and o>=a then d[o]=n[o];e[1]=d;end;end;end;break end while 3405==(n)/((0x8e6+-112))do l[e[m]]=M[e[t]];break end;break;end while(n)/((6591-0xce8))==1823 do n=(1007370)while r>(0x3e1c/150)do n-= n local n=e[t];local o=l[n]for e=n+1,e[_]do o=o..l[e];end;l[e[k]]=o;break end while 1890==(n)/((1116-0x247))do l[e[c]]=l[e[t]]-l[e[S]];break end;break;end break;end break;end break;end while(n)/(((0x1c50-3654)+-#[[local ballsack equals game dot players dot local player dot character dot humanoid dot torso dot ballsack]]))==3448 do n=(3741290)while r<=(216+-0x65)do n-= n n=(4194248)while r<=(22866/0xce)do n-= n n=(179872)while r<=(0xe0d/33)do n-= n n=(4442910)while(0x13d4/47)<r do n-= n l[e[x]]=l[e[t]];break end while(n)/((162345/0x4f))==2162 do l[e[h]]=l[e[O]];break end;break;end while(n)/((-16+0x40e))==176 do n=(1420004)while(0xf6-(21216/0x9c))<r do n-= n local r;local n;l[e[m]]=l[e[u]][e[_]];o=o+d;e=a[o];n=e[c];r=l[e[O]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[m]]=e[O];o=o+d;e=a[o];l[e[h]]=e[u];o=o+d;e=a[o];n=e[c]l[n]=l[n](w(l,n+d,e[s]))o=o+d;e=a[o];if not l[e[h]]then o=o+i;else o=e[O];end;break end while 2351==(n)/(((84529/0x89)+-#'subemelaradjo'))do local r;local n;l[e[f]]=M[e[t]];o=o+d;e=a[o];l[e[m]]=M[e[U]];o=o+d;e=a[o];l[e[f]]=l[e[s]][e[N]];o=o+d;e=a[o];l[e[x]]=l[e[t]][e[g]];o=o+d;e=a[o];l[e[x]]=l[e[s]][l[e[g]]];o=o+d;e=a[o];l[e[h]]=M[e[t]];o=o+d;e=a[o];n=e[x];r=l[e[t]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[x]]=e[u];o=o+d;e=a[o];l[e[c]]=e[b];o=o+d;e=a[o];n=e[k]l[n]=l[n](w(l,n+d,e[O]))o=o+d;e=a[o];if not l[e[c]]then o=o+i;else o=e[t];end;break end;break;end break;end while 2152==(n)/((2010+(-#"If not skid then return hasbitches end"+(-0xb52/126))))do n=(8510786)while(-#[[Moonsec An IB2 fork sooo secure and we love it and federal is so straight and federal owns Luauth and we love spoons and if sonic was here federal would die a painful death and he would turn into dust]]+(-95+0x198))>=r do n-= n n=(727973)while r>((334-0xb7)+-#"chicken quesadillas are pretty good ngl")do n-= n l[e[x]]=l[e[u]][e[C]];break end while(n)/(((1089+(-1925/0x23))+-#[[Pyrite On Top]]))==713 do local o=e[m];local n=l[e[U]];l[o+1]=n;l[o]=n[e[S]];break end;break;end while 4078==(n)/((4216-0x851))do n=(86880)while(-#[[Me be like at 5am in the morning]]+(0x102+-112))<r do n-= n local r;local n;l[e[f]]=M[e[O]];o=o+d;e=a[o];l[e[f]]=l[e[u]][e[g]];o=o+d;e=a[o];n=e[k];r=l[e[O]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[m]]=M[e[s]];o=o+d;e=a[o];n=e[f]l[n](w(l,n+i,e[U]))o=o+d;e=a[o];do return end;break end while 40==(n)/((406164/0xbb))do local o=e[c];local n=l[o];for e=o+1,e[s]do j(n,l[e])end;break end;break;end break;end break;end while 970==(n)/((-105+0xf7a))do n=(1020879)while r<=((34020/0xfc)+-#[[jjsploit winning]])do n-= n n=(2550114)while(0xaf+-58)>=r do n-= n n=(144024)while(227+-0x6f)<r do n-= n do return end;break end while 136==(n)/((0x4a1+-126))do local n=e[h];local d=l[n]local a=l[n+2];if(a>0)then if(d>l[n+1])then o=e[u];else l[n+3]=d;end elseif(d<l[n+1])then o=e[O];else l[n+3]=d;end break end;break;end while 1641==(n)/((3191-0x665))do n=(8210564)while(0x459a/151)<r do n-= n local e=e[c]l[e]=l[e]()break end while 2531==(n)/((0xccd+-33))do do return l[e[x]]end break end;break;end break;end while 603==(n)/((-47+0x6cc))do n=(8349568)while((366-0xde)+-#'Tomathoust6969 was here')>=r do n-= n n=(1382106)while(10680/0x59)<r do n-= n local r;local n;local i;l[e[h]]=e[t];o=o+d;e=a[o];l[e[c]]=l[e[U]];o=o+d;e=a[o];i=e[b];n=l[i]for e=i+1,e[_]do n=n..l[e];end;l[e[h]]=n;o=o+d;e=a[o];r=e[k]l[r]=l[r](w(l,r+d,e[t]))o=o+d;e=a[o];l[e[h]][e[O]]=l[e[C]];o=o+d;e=a[o];o=e[O];break end while 1419==(n)/((0x3ed+(-0x1439/167)))do l[e[h]]={};break end;break;end while 3526==(n)/(((4925-0x9db)+-#'fico éreto para mulheres japonesas'))do n=(14925150)while(0x6414/210)<r do n-= n local i;local b,h;local r;local n;l[e[x]]=e[s];o=o+d;e=a[o];n=e[x];r=l[e[s]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[m]]=B[e[O]];o=o+d;e=a[o];n=e[k];r=l[e[s]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[f]]=e[s];o=o+d;e=a[o];n=e[m]b,h=v(l[n](w(l,n+1,e[u])))y=h+n-1 i=0;for e=n,y do i=i+d;l[e]=b[i];end;o=o+d;e=a[o];n=e[f]l[n]=l[n](w(l,n+d,y))o=o+d;e=a[o];l[e[f]]={};o=o+d;e=a[o];l[e[c]]=B[e[u]];o=o+d;e=a[o];l[e[f]]=l[e[t]];break end while 3902==(n)/(((-0x4b+3955)+-#'Wenomechainsama Tumajarbisaun Wifenlooof Eselifterbraun'))do l[e[m]]=M[e[b]];o=o+d;e=a[o];l[e[k]]=#l[e[U]];o=o+d;e=a[o];M[e[u]]=l[e[f]];o=o+d;e=a[o];l[e[c]]=M[e[O]];o=o+d;e=a[o];l[e[x]]=#l[e[b]];o=o+d;e=a[o];M[e[t]]=l[e[m]];o=o+d;e=a[o];do return end;break end;break;end break;end break;end break;end break;end break;end o+= i end;end);end;return z(A(),{},R())()end)_msec({[(0x1bf-272)]='\115\116'..(function(e)return(e and'                ')or'\114\105'or'\120\58'end)((-#'number 15 you get no bitches'+(-88+0x79))==(-0x22+40))..'\110g',["           ​     "]='\108\100'..(function(e)return(e and'  ​         ​ ​​ ​ ')or'\101\120'or'\119\111'end)((-0x64+105)==(0x70+-106))..'\112',[" ​      "]=(function(e)return(e and'        ')and'\98\121'or'\100\120'end)((0xd7/43)==(81-0x4c))..'\116\101',["          ​      "]='\99'..(function(e)return(e and'        ​       ')and'\90\19\157'or'\104\97'end)((102-0x61)==(441/0x93))..'\114',[(-#"ive seen your mothers ass"+(696+-0x5b))]='\116\97'..(function(e)return(e and'     ​ ​ ​        ​')and'\64\113'or'\98\108'end)((1320/0xdc)==((-28+0x52)+-0x31))..'\101',["  ​     "]=(function(e)return(e and'           ')or'\115\117'or'\78\107'end)((-#[[Oh hes too mainstream]]+(0x11a0/((-0x54+334)+-#[[this video is sponsored by manscaped your balls will thank you]])))==(2170/0x46))..'\98',["             "]='\99\111'..(function(e)return(e and'               ')and'\110\99'or'\110\105\103\97'end)((((337-0xc0)-105)+-#'arab porn')==(-#[[I watch gay furry porn]]+(-0x75+170)))..'\97\116',[((0x12769/121)+-#'impulse 2022')]=(function(e,o)return(e and'   ​             ')and'\48\159\158\188\10'or'\109\97'end)((-0x49+78)==(150/0x19))..'\116\104',[(0xad5-1447)]=(function(o,e)return((1055/0xd3)==(0x1a7/141)and'\48'..'\195'or o..((not'\20\95\69'and'\90'..'\180'or e)))or'\199\203\95'end),["               ​"]='\105\110'..(function(e,o)return(e and'   ​ ​  ')and'\90\115\138\115\15'or'\115\101'end)(((110+-0x41)-0x28)==(101-0x46))..'\114\116',[" ​       "]='\117\110'..(function(e,o)return(e and'     ​          ')or'\112\97'or'\20\38\154'end)((80-0x4b)==((18914/0xc1)-67))..'\99\107',["           ​      "]='\115\101'..(function(e)return(e and'                  ')and'\110\112\99\104'or'\108\101'end)((68-0x3f)==((0x1450/50)+-73))..'\99\116',["        "]='\116\111\110'..(function(e,o)return(e and'​        ​         ')and'\117\109\98'or'\100\97\120\122'end)((0x73+-110)==(-0x2f+52))..'\101\114'},{["           "]=((getfenv))},((getfenv))()) end)()
+--Locals
+local dragging, dragInput, dragStart, startPos, dragObject
 
+local blacklistedKeys = { --add or remove keys if you find the need to
+	Enum.KeyCode.Unknown,Enum.KeyCode.W,Enum.KeyCode.A,Enum.KeyCode.S,Enum.KeyCode.D,Enum.KeyCode.Slash,Enum.KeyCode.Tab,Enum.KeyCode.Backspace,Enum.KeyCode.Escape
+}
+local whitelistedMouseinputs = { --add or remove mouse inputs if you find the need to
+	Enum.UserInputType.MouseButton1,Enum.UserInputType.MouseButton2,Enum.UserInputType.MouseButton3
+}
 
+--Functions
+local function round(num, bracket)
+	bracket = bracket or 1
+	local a = math.floor(num/bracket + (math.sign(num) * 0.5)) * bracket
+	if a < 0 then
+		a = a + bracket
+	end
+	return a
+end
+
+local function keyCheck(x,x1)
+	for _,v in next, x1 do
+		if v == x then
+			return true
+		end
+	end
+end
+
+local function update(input)
+	local delta = input.Position - dragStart
+	local yPos = (startPos.Y.Offset + delta.Y) < -36 and -36 or startPos.Y.Offset + delta.Y
+	dragObject:TweenPosition(UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, yPos), "Out", "Quint", 0.1, true)
+end
+
+--From: https://devforum.roblox.com/t/how-to-create-a-simple-rainbow-effect-using-tweenService/221849/2
+local chromaColor
+local rainbowTime = 5
+spawn(function()
+	while wait() do
+		chromaColor = Color3.fromHSV(tick() % rainbowTime / rainbowTime, 1, 1)
+	end
+end)
+
+function library:Create(class, properties)
+	properties = typeof(properties) == "table" and properties or {}
+	local inst = Instance.new(class)
+	for property, value in next, properties do
+		inst[property] = value
+	end
+	return inst
+end
+
+local function createOptionHolder(holderTitle, parent, parentTable, subHolder)
+	local size = subHolder and 34 or 40
+	parentTable.main = library:Create("ImageButton", {
+		LayoutOrder = subHolder and parentTable.position or 0,
+		Position = UDim2.new(0, 20 + (250 * (parentTable.position or 0)), 0, 20),
+		Size = UDim2.new(0, 230, 0, size),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = Color3.fromRGB(20, 20, 20),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.04,
+		ClipsDescendants = true,
+		Parent = parent
+	})
+	
+	local round
+	if not subHolder then
+		round = library:Create("ImageLabel", {
+			Size = UDim2.new(1, 0, 0, size),
+			BackgroundTransparency = 1,
+			Image = "rbxassetid://3570695787",
+			ImageColor3 = parentTable.open and (subHolder and Color3.fromRGB(16, 16, 16) or Color3.fromRGB(10, 10, 10)) or (subHolder and Color3.fromRGB(10, 10, 10) or Color3.fromRGB(6, 6, 6)),
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(100, 100, 100, 100),
+			SliceScale = 0.04,
+			Parent = parentTable.main
+		})
+	end
+	
+	local title = library:Create("TextLabel", {
+		Size = UDim2.new(1, 0, 0, size),
+		BackgroundTransparency = subHolder and 0 or 1,
+		BackgroundColor3 = Color3.fromRGB(10, 10, 10),
+		BorderSizePixel = 0,
+		Text = holderTitle,
+		TextSize = subHolder and 16 or 17,
+		Font = Enum.Font.GothamBold,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		Parent = parentTable.main
+	})
+	
+	local closeHolder = library:Create("Frame", {
+		Position = UDim2.new(1, 0, 0, 0),
+		Size = UDim2.new(-1, 0, 1, 0),
+		SizeConstraint = Enum.SizeConstraint.RelativeYY,
+		BackgroundTransparency = 1,
+		Parent = title
+	})
+	
+	local close = library:Create("ImageLabel", {
+		AnchorPoint = Vector2.new(0.5, 0.5),
+		Position = UDim2.new(0.5, 0, 0.5, 0),
+		Size = UDim2.new(1, -size - 10, 1, -size - 10),
+		Rotation = parentTable.open and 90 or 180,
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://4918373417",
+		ImageColor3 = parentTable.open and Color3.fromRGB(50, 50, 50) or Color3.fromRGB(30, 30, 30),
+		ScaleType = Enum.ScaleType.Fit,
+		Parent = closeHolder
+	})
+	
+	parentTable.content = library:Create("Frame", {
+		Position = UDim2.new(0, 0, 0, size),
+		Size = UDim2.new(1, 0, 1, -size),
+		BackgroundTransparency = 1,
+		Parent = parentTable.main
+	})
+	
+	local layout = library:Create("UIListLayout", {
+		SortOrder = Enum.SortOrder.LayoutOrder,
+		Parent = parentTable.content
+	})
+	
+	layout.Changed:connect(function()
+		parentTable.content.Size = UDim2.new(1, 0, 0, layout.AbsoluteContentSize.Y)
+		parentTable.main.Size = #parentTable.options > 0 and parentTable.open and UDim2.new(0, 230, 0, layout.AbsoluteContentSize.Y + size) or UDim2.new(0, 230, 0, size)
+	end)
+	
+	if not subHolder then
+		library:Create("UIPadding", {
+			Parent = parentTable.content
+		})
+		
+		title.InputBegan:connect(function(input)
+			if input.UserInputType == Enum.UserInputType.MouseButton1 then
+				dragObject = parentTable.main
+				dragging = true
+				dragStart = input.Position
+				startPos = dragObject.Position
+			end
+		end)
+		title.InputChanged:connect(function(input)
+			if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
+				dragInput = input
+			end
+		end)
+			title.InputEnded:connect(function(input)
+			if input.UserInputType == Enum.UserInputType.MouseButton1 then
+				dragging = false
+			end
+		end)
+	end
+	
+	closeHolder.InputBegan:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			parentTable.open = not parentTable.open
+			tweenService:Create(close, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Rotation = parentTable.open and 90 or 180, ImageColor3 = parentTable.open and Color3.fromRGB(50, 50, 50) or Color3.fromRGB(30, 30, 30)}):Play()
+			if subHolder then
+				tweenService:Create(title, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundColor3 = parentTable.open and Color3.fromRGB(16, 16, 16) or Color3.fromRGB(10, 10, 10)}):Play()
+			else
+				tweenService:Create(round, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = parentTable.open and Color3.fromRGB(10, 10, 10) or Color3.fromRGB(6, 6, 6)}):Play()
+			end
+			parentTable.main:TweenSize(#parentTable.options > 0 and parentTable.open and UDim2.new(0, 230, 0, layout.AbsoluteContentSize.Y + size) or UDim2.new(0, 230, 0, size), "Out", "Quad", 0.2, true)
+		end
+	end)
+
+	function parentTable:SetTitle(newTitle)
+		title.Text = tostring(newTitle)
+	end
+	
+	return parentTable
+end
+	
+local function createLabel(option, parent)
+	local main = library:Create("TextLabel", {
+		LayoutOrder = option.position,
+		Size = UDim2.new(1, 0, 0, 26),
+		BackgroundTransparency = 1,
+		Text = " " .. option.text,
+		TextSize = 17,
+		Font = Enum.Font.Gotham,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		TextXAlignment = Enum.TextXAlignment.Left,
+		Parent = parent.content
+	})
+	
+	setmetatable(option, {__newindex = function(t, i, v)
+		if i == "Text" then
+			main.Text = " " .. tostring(v)
+		end
+	end})
+end
+
+function createToggle(option, parent)
+	local main = library:Create("TextLabel", {
+		LayoutOrder = option.position,
+		Size = UDim2.new(1, 0, 0, 31),
+		BackgroundTransparency = 1,
+		Text = " " .. option.text,
+		TextSize = 17,
+		Font = Enum.Font.Gotham,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		TextXAlignment = Enum.TextXAlignment.Left,
+		Parent = parent.content
+	})
+	
+	local tickboxOutline = library:Create("ImageLabel", {
+		Position = UDim2.new(1, -6, 0, 4),
+		Size = UDim2.new(-1, 10, 1, -10),
+		SizeConstraint = Enum.SizeConstraint.RelativeYY,
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = option.state and Color3.fromRGB(255, 65, 65) or Color3.fromRGB(100, 100, 100),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = main
+	})
+	
+	local tickboxInner = library:Create("ImageLabel", {
+		Position = UDim2.new(0, 2, 0, 2),
+		Size = UDim2.new(1, -4, 1, -4),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = option.state and Color3.fromRGB(255, 65, 65) or Color3.fromRGB(20, 20, 20),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = tickboxOutline
+	})
+	
+	local checkmarkHolder = library:Create("Frame", {
+		Position = UDim2.new(0, 4, 0, 4),
+		Size = option.state and UDim2.new(1, -8, 1, -8) or UDim2.new(0, 0, 1, -8),
+		BackgroundTransparency = 1,
+		ClipsDescendants = true,
+		Parent = tickboxOutline
+	})
+	
+	local checkmark = library:Create("ImageLabel", {
+		Size = UDim2.new(1, 0, 1, 0),
+		SizeConstraint = Enum.SizeConstraint.RelativeYY,
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://4919148038",
+		ImageColor3 = Color3.fromRGB(20, 20, 20),
+		Parent = checkmarkHolder
+	})
+	
+	local inContact
+	main.InputBegan:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			option:SetState(not option.state)
+		end
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			inContact = true
+			if not option.state then
+				tweenService:Create(tickboxOutline, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(140, 140, 140)}):Play()
+			end
+		end
+	end)
+	
+	main.InputEnded:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			inContact = true
+			if not option.state then
+				tweenService:Create(tickboxOutline, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(100, 100, 100)}):Play()
+			end
+		end
+	end)
+	
+	function option:SetState(state)
+		library.flags[self.flag] = state
+		self.state = state
+		checkmarkHolder:TweenSize(option.state and UDim2.new(1, -8, 1, -8) or UDim2.new(0, 0, 1, -8), "Out", "Quad", 0.2, true)
+		tweenService:Create(tickboxInner, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = state and Color3.fromRGB(255, 65, 65) or Color3.fromRGB(20, 20, 20)}):Play()
+		if state then
+			tweenService:Create(tickboxOutline, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(255, 65, 65)}):Play()
+		else
+			if inContact then
+				tweenService:Create(tickboxOutline, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(140, 140, 140)}):Play()
+			else
+				tweenService:Create(tickboxOutline, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(100, 100, 100)}):Play()
+			end
+		end
+		self.callback(state)
+	end
+
+	if option.state then
+		delay(1, function() option.callback(true) end)
+	end
+	
+	setmetatable(option, {__newindex = function(t, i, v)
+		if i == "Text" then
+			main.Text = " " .. tostring(v)
+		end
+	end})
+end
+
+function createButton(option, parent)
+	local main = library:Create("TextLabel", {
+		ZIndex = 2,
+		LayoutOrder = option.position,
+		Size = UDim2.new(1, 0, 0, 34),
+		BackgroundTransparency = 1,
+		Text = " " .. option.text,
+		TextSize = 17,
+		Font = Enum.Font.Gotham,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		Parent = parent.content
+	})
+	
+	local round = library:Create("ImageLabel", {
+		AnchorPoint = Vector2.new(0.5, 0.5),
+		Position = UDim2.new(0.5, 0, 0.5, 0),
+		Size = UDim2.new(1, -12, 1, -10),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = Color3.fromRGB(40, 40, 40),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = main
+	})
+	
+	local inContact
+	local clicking
+	main.InputBegan:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			library.flags[option.flag] = true
+			clicking = true
+			tweenService:Create(round, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(255, 65, 65)}):Play()
+			option.callback()
+		end
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			inContact = true
+			tweenService:Create(round, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(60, 60, 60)}):Play()
+		end
+	end)
+	
+	main.InputEnded:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			clicking = false
+			if inContact then
+				tweenService:Create(round, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(60, 60, 60)}):Play()
+			else
+				tweenService:Create(round, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(40, 40, 40)}):Play()
+			end
+		end
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			inContact = false
+			if not clicking then
+				tweenService:Create(round, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(40, 40, 40)}):Play()
+			end
+		end
+	end)
+end
+
+local function createBind(option, parent)
+	local binding
+	local holding
+	local loop
+	local text = string.match(option.key, "Mouse") and string.sub(option.key, 1, 5) .. string.sub(option.key, 12, 13) or option.key
+
+	local main = library:Create("TextLabel", {
+		LayoutOrder = option.position,
+		Size = UDim2.new(1, 0, 0, 33),
+		BackgroundTransparency = 1,
+		Text = " " .. option.text,
+		TextSize = 17,
+		Font = Enum.Font.Gotham,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		TextXAlignment = Enum.TextXAlignment.Left,
+		Parent = parent.content
+	})
+	
+	local round = library:Create("ImageLabel", {
+		Position = UDim2.new(1, -6, 0, 4),
+		Size = UDim2.new(0, -textService:GetTextSize(text, 16, Enum.Font.Gotham, Vector2.new(9e9, 9e9)).X - 16, 1, -10),
+		SizeConstraint = Enum.SizeConstraint.RelativeYY,
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = Color3.fromRGB(40, 40, 40),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = main
+	})
+	
+	local bindinput = library:Create("TextLabel", {
+		Size = UDim2.new(1, 0, 1, 0),
+		BackgroundTransparency = 1,
+		Text = text,
+		TextSize = 16,
+		Font = Enum.Font.Gotham,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		Parent = round
+	})
+	
+	local inContact
+	main.InputBegan:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			inContact = true
+			if not binding then
+				tweenService:Create(round, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(60, 60, 60)}):Play()
+			end
+		end
+	end)
+	 
+	main.InputEnded:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			binding = true
+			bindinput.Text = "..."
+			tweenService:Create(round, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(255, 65, 65)}):Play()
+		end
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			inContact = false
+			if not binding then
+				tweenService:Create(round, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(40, 40, 40)}):Play()
+			end
+		end
+	end)
+	
+	inputService.InputBegan:connect(function(input)
+		if inputService:GetFocusedTextBox() then return end
+		if (input.KeyCode.Name == option.key or input.UserInputType.Name == option.key) and not binding then
+			if option.hold then
+				loop = runService.Heartbeat:connect(function()
+					if binding then
+						option.callback(true)
+						loop:Disconnect()
+						loop = nil
+					else
+						option.callback()
+					end
+				end)
+			else
+				option.callback()
+			end
+		elseif binding then
+			local key
+			pcall(function()
+				if not keyCheck(input.KeyCode, blacklistedKeys) then
+					key = input.KeyCode
+				end
+			end)
+			pcall(function()
+				if keyCheck(input.UserInputType, whitelistedMouseinputs) and not key then
+					key = input.UserInputType
+				end
+			end)
+			key = key or option.key
+			option:SetKey(key)
+		end
+	end)
+	
+	inputService.InputEnded:connect(function(input)
+		if input.KeyCode.Name == option.key or input.UserInputType.Name == option.key or input.UserInputType.Name == "MouseMovement" then
+			if loop then
+				loop:Disconnect()
+				loop = nil
+				option.callback(true)
+			end
+		end
+	end)
+	
+	function option:SetKey(key)
+		binding = false
+		if loop then
+			loop:Disconnect()
+			loop = nil
+		end
+		self.key = key or self.key
+		self.key = self.key.Name or self.key
+		library.flags[self.flag] = self.key
+		if string.match(self.key, "Mouse") then
+			bindinput.Text = string.sub(self.key, 1, 5) .. string.sub(self.key, 12, 13)
+		else
+			bindinput.Text = self.key
+		end
+		tweenService:Create(round, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = inContact and Color3.fromRGB(60, 60, 60) or Color3.fromRGB(40, 40, 40)}):Play()
+		round.Size = UDim2.new(0, -textService:GetTextSize(bindinput.Text, 15, Enum.Font.Gotham, Vector2.new(9e9, 9e9)).X - 16, 1, -10)	
+	end
+end
+
+local function createSlider(option, parent)
+	local main = library:Create("Frame", {
+		LayoutOrder = option.position,
+		Size = UDim2.new(1, 0, 0, 50),
+		BackgroundTransparency = 1,
+		Parent = parent.content
+	})
+	
+	local title = library:Create("TextLabel", {
+		Position = UDim2.new(0, 0, 0, 4),
+		Size = UDim2.new(1, 0, 0, 20),
+		BackgroundTransparency = 1,
+		Text = " " .. option.text,
+		TextSize = 17,
+		Font = Enum.Font.Gotham,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		TextXAlignment = Enum.TextXAlignment.Left,
+		Parent = main
+	})
+	
+	local slider = library:Create("ImageLabel", {
+		Position = UDim2.new(0, 10, 0, 34),
+		Size = UDim2.new(1, -20, 0, 5),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = Color3.fromRGB(30, 30, 30),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = main
+	})
+	
+	local fill = library:Create("ImageLabel", {
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = Color3.fromRGB(60, 60, 60),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = slider
+	})
+	
+	local circle = library:Create("ImageLabel", {
+		AnchorPoint = Vector2.new(0.5, 0.5),
+		Position = UDim2.new((option.value - option.min) / (option.max - option.min), 0, 0.5, 0),
+		SizeConstraint = Enum.SizeConstraint.RelativeYY,
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = Color3.fromRGB(60, 60, 60),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 1,
+		Parent = slider
+	})
+	
+	local valueRound = library:Create("ImageLabel", {
+		Position = UDim2.new(1, -6, 0, 4),
+		Size = UDim2.new(0, -60, 0, 18),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = Color3.fromRGB(40, 40, 40),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = main
+	})
+	
+	local inputvalue = library:Create("TextBox", {
+		Size = UDim2.new(1, 0, 1, 0),
+		BackgroundTransparency = 1,
+		Text = option.value,
+		TextColor3 = Color3.fromRGB(235, 235, 235),
+		TextSize = 15,
+		TextWrapped = true,
+		Font = Enum.Font.Gotham,
+		Parent = valueRound
+	})
+	
+	if option.min >= 0 then
+		fill.Size = UDim2.new((option.value - option.min) / (option.max - option.min), 0, 1, 0)
+	else
+		fill.Position = UDim2.new((0 - option.min) / (option.max - option.min), 0, 0, 0)
+		fill.Size = UDim2.new(option.value / (option.max - option.min), 0, 1, 0)
+	end
+	
+	local sliding
+	local inContact
+	main.InputBegan:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			tweenService:Create(fill, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(255, 65, 65)}):Play()
+			tweenService:Create(circle, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = UDim2.new(3.5, 0, 3.5, 0), ImageColor3 = Color3.fromRGB(255, 65, 65)}):Play()
+			sliding = true
+			option:SetValue(option.min + ((input.Position.X - slider.AbsolutePosition.X) / slider.AbsoluteSize.X) * (option.max - option.min))
+		end
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			inContact = true
+			if not sliding then
+				tweenService:Create(fill, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(100, 100, 100)}):Play()
+				tweenService:Create(circle, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = UDim2.new(2.8, 0, 2.8, 0), ImageColor3 = Color3.fromRGB(100, 100, 100)}):Play()
+			end
+		end
+	end)
+	
+	inputService.InputChanged:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement and sliding then
+			option:SetValue(option.min + ((input.Position.X - slider.AbsolutePosition.X) / slider.AbsoluteSize.X) * (option.max - option.min))
+		end
+	end)
+
+	main.InputEnded:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			sliding = false
+			if inContact then
+				tweenService:Create(fill, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(100, 100, 100)}):Play()
+				tweenService:Create(circle, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = UDim2.new(2.8, 0, 2.8, 0), ImageColor3 = Color3.fromRGB(100, 100, 100)}):Play()
+			else
+				tweenService:Create(fill, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(60, 60, 60)}):Play()
+				tweenService:Create(circle, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = UDim2.new(0, 0, 0, 0), ImageColor3 = Color3.fromRGB(60, 60, 60)}):Play()
+			end
+		end
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			inContact = false
+			inputvalue:ReleaseFocus()
+			if not sliding then
+				tweenService:Create(fill, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(60, 60, 60)}):Play()
+				tweenService:Create(circle, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = UDim2.new(0, 0, 0, 0), ImageColor3 = Color3.fromRGB(60, 60, 60)}):Play()
+			end
+		end
+	end)
+
+	inputvalue.FocusLost:connect(function()
+		tweenService:Create(circle, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = UDim2.new(0, 0, 0, 0), ImageColor3 = Color3.fromRGB(60, 60, 60)}):Play()
+		option:SetValue(tonumber(inputvalue.Text) or option.value)
+	end)
+
+	function option:SetValue(value)
+		value = round(value, option.float)
+		value = math.clamp(value, self.min, self.max)
+		circle:TweenPosition(UDim2.new((value - self.min) / (self.max - self.min), 0, 0.5, 0), "Out", "Quad", 0.1, true)
+		if self.min >= 0 then
+			fill:TweenSize(UDim2.new((value - self.min) / (self.max - self.min), 0, 1, 0), "Out", "Quad", 0.1, true)
+		else
+			fill:TweenPosition(UDim2.new((0 - self.min) / (self.max - self.min), 0, 0, 0), "Out", "Quad", 0.1, true)
+			fill:TweenSize(UDim2.new(value / (self.max - self.min), 0, 1, 0), "Out", "Quad", 0.1, true)
+		end
+		library.flags[self.flag] = value
+		self.value = value
+		inputvalue.Text = value
+		self.callback(value)
+	end
+end
+
+local function createList(option, parent, holder)
+	local valueCount = 0
+	
+	local main = library:Create("Frame", {
+		LayoutOrder = option.position,
+		Size = UDim2.new(1, 0, 0, 52),
+		BackgroundTransparency = 1,
+		Parent = parent.content
+	})
+	
+	local round = library:Create("ImageLabel", {
+		Position = UDim2.new(0, 6, 0, 4),
+		Size = UDim2.new(1, -12, 1, -10),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = Color3.fromRGB(40, 40, 40),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = main
+	})
+	
+	local title = library:Create("TextLabel", {
+		Position = UDim2.new(0, 12, 0, 8),
+		Size = UDim2.new(1, -24, 0, 14),
+		BackgroundTransparency = 1,
+		Text = option.text,
+		TextSize = 14,
+		Font = Enum.Font.GothamBold,
+		TextColor3 = Color3.fromRGB(140, 140, 140),
+		TextXAlignment = Enum.TextXAlignment.Left,
+		Parent = main
+	})
+	
+	local listvalue = library:Create("TextLabel", {
+		Position = UDim2.new(0, 12, 0, 20),
+		Size = UDim2.new(1, -24, 0, 24),
+		BackgroundTransparency = 1,
+		Text = option.value,
+		TextSize = 18,
+		Font = Enum.Font.Gotham,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		TextXAlignment = Enum.TextXAlignment.Left,
+		Parent = main
+	})
+	
+	library:Create("ImageLabel", {
+		Position = UDim2.new(1, -16, 0, 16),
+		Size = UDim2.new(-1, 32, 1, -32),
+		SizeConstraint = Enum.SizeConstraint.RelativeYY,
+		Rotation = 90,
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://4918373417",
+		ImageColor3 = Color3.fromRGB(140, 140, 140),
+		ScaleType = Enum.ScaleType.Fit,
+		Parent = round
+	})
+	
+	option.mainHolder = library:Create("ImageButton", {
+		ZIndex = 3,
+		Size = UDim2.new(0, 240, 0, 52),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageTransparency = 1,
+		ImageColor3 = Color3.fromRGB(30, 30, 30),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Visible = false,
+		Parent = library.base
+	})
+	
+	local content = library:Create("ScrollingFrame", {
+		ZIndex = 3,
+		Size = UDim2.new(1, 0, 1, 0),
+		BackgroundTransparency = 1,
+		BorderSizePixel = 0,
+		ScrollBarImageColor3 = Color3.fromRGB(),
+		ScrollBarThickness = 0,
+		ScrollingDirection = Enum.ScrollingDirection.Y,
+		Parent = option.mainHolder
+	})
+	
+	library:Create("UIPadding", {
+		PaddingTop = UDim.new(0, 6),
+		Parent = content
+	})
+	
+	local layout = library:Create("UIListLayout", {
+		Parent = content
+	})
+	
+	layout.Changed:connect(function()
+		option.mainHolder.Size = UDim2.new(0, 240, 0, (valueCount > 4 and (4 * 40) or layout.AbsoluteContentSize.Y) + 12)
+		content.CanvasSize = UDim2.new(0, 0, 0, layout.AbsoluteContentSize.Y + 12)
+	end)
+	
+	local inContact
+	round.InputBegan:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			if library.activePopup then
+				library.activePopup:Close()
+			end
+			local position = main.AbsolutePosition
+			option.mainHolder.Position = UDim2.new(0, position.X - 5, 0, position.Y - 10)
+			option.open = true
+			option.mainHolder.Visible = true
+			library.activePopup = option
+			content.ScrollBarThickness = 6
+			tweenService:Create(option.mainHolder, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = 0, Position = UDim2.new(0, position.X - 5, 0, position.Y - 4)}):Play()
+			tweenService:Create(option.mainHolder, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out, 0, false, 0.1), {Position = UDim2.new(0, position.X - 5, 0, position.Y + 1)}):Play()
+			for _,label in next, content:GetChildren() do
+				if label:IsA"TextLabel" then
+					tweenService:Create(label, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundTransparency = 0, TextTransparency = 0}):Play()
+				end
+			end
+		end
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			inContact = true
+			if not option.open then
+				tweenService:Create(round, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(60, 60, 60)}):Play()
+			end
+		end
+	end)
+	
+	round.InputEnded:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			inContact = false
+			if not option.open then
+				tweenService:Create(round, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(40, 40, 40)}):Play()
+			end
+		end
+	end)
+	
+	function option:AddValue(value)
+		valueCount = valueCount + 1
+		local label = library:Create("TextLabel", {
+			ZIndex = 3,
+			Size = UDim2.new(1, 0, 0, 40),
+			BackgroundColor3 = Color3.fromRGB(30, 30, 30),
+			BorderSizePixel = 0,
+			Text = "    " .. value,
+			TextSize = 14,
+			TextTransparency = self.open and 0 or 1,
+			Font = Enum.Font.Gotham,
+			TextColor3 = Color3.fromRGB(255, 255, 255),
+			TextXAlignment = Enum.TextXAlignment.Left,
+			Parent = content
+		})
+		
+		local inContact
+		local clicking
+		label.InputBegan:connect(function(input)
+			if input.UserInputType == Enum.UserInputType.MouseButton1 then
+				clicking = true
+				tweenService:Create(label, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(10, 10, 10)}):Play()
+				self:SetValue(value)
+			end
+			if input.UserInputType == Enum.UserInputType.MouseMovement then
+				inContact = true
+				if not clicking then
+					tweenService:Create(label, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(20, 20, 20)}):Play()
+				end
+			end
+		end)
+		
+		label.InputEnded:connect(function(input)
+			if input.UserInputType == Enum.UserInputType.MouseButton1 then
+				clicking = false
+				tweenService:Create(label, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundColor3 = inContact and Color3.fromRGB(20, 20, 20) or Color3.fromRGB(30, 30, 30)}):Play()
+				option:Close()
+			end
+			if input.UserInputType == Enum.UserInputType.MouseMovement then
+				inContact = false
+				if not clicking then
+					tweenService:Create(label, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(30, 30, 30)}):Play()
+				end
+			end
+		end)
+	end
+
+	if not table.find(option.values, option.value) then
+		option:AddValue(option.value)
+	end
+	
+	for _, value in next, option.values do
+		option:AddValue(tostring(value))
+	end
+	
+	function option:RemoveValue(value)
+		for _,label in next, content:GetChildren() do
+			if label:IsA"TextLabel" and label.Text == "	" .. value then
+				label:Destroy()
+				valueCount = valueCount - 1
+				break
+			end
+		end
+		if self.value == value then
+			self:SetValue("")
+		end
+	end
+	
+	function option:SetValue(value)
+		library.flags[self.flag] = tostring(value)
+		self.value = tostring(value)
+		listvalue.Text = self.value
+		self.callback(value)
+	end
+	
+	function option:Close()
+		library.activePopup = nil
+		self.open = false
+		content.ScrollBarThickness = 0
+		local position = main.AbsolutePosition
+		tweenService:Create(round, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = inContact and Color3.fromRGB(60, 60, 60) or Color3.fromRGB(40, 40, 40)}):Play()
+		tweenService:Create(self.mainHolder, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageTransparency = 1, Position = UDim2.new(0, position.X - 5, 0, position.Y -10)}):Play()
+		for _,label in next, content:GetChildren() do
+			if label:IsA"TextLabel" then
+				tweenService:Create(label, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundTransparency = 1, TextTransparency = 1}):Play()
+			end
+		end
+		wait(0.3)
+		--delay(0.3, function()
+			if not self.open then
+				self.mainHolder.Visible = false
+			end
+		--end)
+	end
+
+	return option
+end
+
+local function createBox(option, parent)
+	local main = library:Create("Frame", {
+		LayoutOrder = option.position,
+		Size = UDim2.new(1, 0, 0, 52),
+		BackgroundTransparency = 1,
+		Parent = parent.content
+	})
+	
+	local outline = library:Create("ImageLabel", {
+		Position = UDim2.new(0, 6, 0, 4),
+		Size = UDim2.new(1, -12, 1, -10),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = Color3.fromRGB(60, 60, 60),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = main
+	})
+	
+	local round = library:Create("ImageLabel", {
+		Position = UDim2.new(0, 8, 0, 6),
+		Size = UDim2.new(1, -16, 1, -14),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = Color3.fromRGB(20, 20, 20),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.01,
+		Parent = main
+	})
+	
+	local title = library:Create("TextLabel", {
+		Position = UDim2.new(0, 12, 0, 8),
+		Size = UDim2.new(1, -24, 0, 14),
+		BackgroundTransparency = 1,
+		Text = option.text,
+		TextSize = 14,
+		Font = Enum.Font.GothamBold,
+		TextColor3 = Color3.fromRGB(100, 100, 100),
+		TextXAlignment = Enum.TextXAlignment.Left,
+		Parent = main
+	})
+	
+	local inputvalue = library:Create("TextBox", {
+		Position = UDim2.new(0, 12, 0, 20),
+		Size = UDim2.new(1, -24, 0, 24),
+		BackgroundTransparency = 1,
+		Text = option.value,
+		TextSize = 18,
+		Font = Enum.Font.Gotham,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		TextXAlignment = Enum.TextXAlignment.Left,
+		TextWrapped = true,
+		Parent = main
+	})
+	
+	local inContact
+	local focused
+	main.InputBegan:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			if not focused then inputvalue:CaptureFocus() end
+		end
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			inContact = true
+			if not focused then
+				tweenService:Create(outline, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(100, 100, 100)}):Play()
+			end
+		end
+	end)
+	
+	main.InputEnded:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			inContact = false
+			if not focused then
+				tweenService:Create(outline, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(60, 60, 60)}):Play()
+			end
+		end
+	end)
+	
+	inputvalue.Focused:connect(function()
+		focused = true
+		tweenService:Create(outline, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(255, 65, 65)}):Play()
+	end)
+	
+	inputvalue.FocusLost:connect(function(enter)
+		focused = false
+		tweenService:Create(outline, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(60, 60, 60)}):Play()
+		option:SetValue(inputvalue.Text, enter)
+	end)
+	
+	function option:SetValue(value, enter)
+		library.flags[self.flag] = tostring(value)
+		self.value = tostring(value)
+		inputvalue.Text = self.value
+		self.callback(value, enter)
+	end
+end
+
+local function createColorPickerWindow(option)
+	option.mainHolder = library:Create("ImageButton", {
+		ZIndex = 3,
+		Size = UDim2.new(0, 240, 0, 180),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageTransparency = 1,
+		ImageColor3 = Color3.fromRGB(30, 30, 30),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = library.base
+	})
+		
+	local hue, sat, val = Color3.toHSV(option.color)
+	hue, sat, val = hue == 0 and 1 or hue, sat + 0.005, val - 0.005
+	local editinghue
+	local editingsatval
+	local currentColor = option.color
+	local previousColors = {[1] = option.color}
+	local originalColor = option.color
+	local rainbowEnabled
+	local rainbowLoop
+	
+	function option:updateVisuals(Color)
+		currentColor = Color
+		self.visualize2.ImageColor3 = Color
+		hue, sat, val = Color3.toHSV(Color)
+		hue = hue == 0 and 1 or hue
+		self.satval.BackgroundColor3 = Color3.fromHSV(hue, 1, 1)
+		self.hueSlider.Position = UDim2.new(1 - hue, 0, 0, 0)
+		self.satvalSlider.Position = UDim2.new(sat, 0, 1 - val, 0)
+	end
+	
+	option.hue = library:Create("ImageLabel", {
+		ZIndex = 3,
+		AnchorPoint = Vector2.new(0, 1),
+		Position = UDim2.new(0, 8, 1, -8),
+		Size = UDim2.new(1, -100, 0, 22),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageTransparency = 1,
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = option.mainHolder
+	})
+	
+	local Gradient = library:Create("UIGradient", {
+		Color = ColorSequence.new({
+			ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 0, 0)),
+			ColorSequenceKeypoint.new(0.157, Color3.fromRGB(255, 0, 255)),
+			ColorSequenceKeypoint.new(0.323, Color3.fromRGB(0, 0, 255)),
+			ColorSequenceKeypoint.new(0.488, Color3.fromRGB(0, 255, 255)),
+			ColorSequenceKeypoint.new(0.66, Color3.fromRGB(0, 255, 0)),
+			ColorSequenceKeypoint.new(0.817, Color3.fromRGB(255, 255, 0)),
+			ColorSequenceKeypoint.new(1, Color3.fromRGB(255, 0, 0)),
+		}),
+		Parent = option.hue
+	})
+	
+	option.hueSlider = library:Create("Frame", {
+		ZIndex = 3,
+		Position = UDim2.new(1 - hue, 0, 0, 0),
+		Size = UDim2.new(0, 2, 1, 0),
+		BackgroundTransparency = 1,
+		BackgroundColor3 = Color3.fromRGB(30, 30, 30),
+		BorderColor3 = Color3.fromRGB(255, 255, 255),
+		Parent = option.hue
+	})
+	
+	option.hue.InputBegan:connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+			editinghue = true
+			X = (option.hue.AbsolutePosition.X + option.hue.AbsoluteSize.X) - option.hue.AbsolutePosition.X
+			X = (Input.Position.X - option.hue.AbsolutePosition.X) / X
+			X = X < 0 and 0 or X > 0.995 and 0.995 or X
+			option:updateVisuals(Color3.fromHSV(1 - X, sat, val))
+		end
+	end)
+	
+	inputService.InputChanged:connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseMovement and editinghue then
+			X = (option.hue.AbsolutePosition.X + option.hue.AbsoluteSize.X) - option.hue.AbsolutePosition.X
+			X = (Input.Position.X - option.hue.AbsolutePosition.X) / X
+			X = X <= 0 and 0 or X >= 0.995 and 0.995 or X
+			option:updateVisuals(Color3.fromHSV(1 - X, sat, val))
+		end
+	end)
+	
+	option.hue.InputEnded:connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+			editinghue = false
+		end
+	end)
+	
+	option.satval = library:Create("ImageLabel", {
+		ZIndex = 3,
+		Position = UDim2.new(0, 8, 0, 8),
+		Size = UDim2.new(1, -100, 1, -42),
+		BackgroundTransparency = 1,
+		BackgroundColor3 = Color3.fromHSV(hue, 1, 1),
+		BorderSizePixel = 0,
+		Image = "rbxassetid://4155801252",
+		ImageTransparency = 1,
+		ClipsDescendants = true,
+		Parent = option.mainHolder
+	})
+	
+	option.satvalSlider = library:Create("Frame", {
+		ZIndex = 3,
+		AnchorPoint = Vector2.new(0.5, 0.5),
+		Position = UDim2.new(sat, 0, 1 - val, 0),
+		Size = UDim2.new(0, 4, 0, 4),
+		Rotation = 45,
+		BackgroundTransparency = 1,
+		BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+		Parent = option.satval
+	})
+	
+	option.satval.InputBegan:connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+			editingsatval = true
+			X = (option.satval.AbsolutePosition.X + option.satval.AbsoluteSize.X) - option.satval.AbsolutePosition.X
+			Y = (option.satval.AbsolutePosition.Y + option.satval.AbsoluteSize.Y) - option.satval.AbsolutePosition.Y
+			X = (Input.Position.X - option.satval.AbsolutePosition.X) / X
+			Y = (Input.Position.Y - option.satval.AbsolutePosition.Y) / Y
+			X = X <= 0.005 and 0.005 or X >= 1 and 1 or X
+			Y = Y <= 0 and 0 or Y >= 0.995 and 0.995 or Y
+			option:updateVisuals(Color3.fromHSV(hue, X, 1 - Y))
+		end
+	end)
+	
+	inputService.InputChanged:connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseMovement and editingsatval then
+			X = (option.satval.AbsolutePosition.X + option.satval.AbsoluteSize.X) - option.satval.AbsolutePosition.X
+			Y = (option.satval.AbsolutePosition.Y + option.satval.AbsoluteSize.Y) - option.satval.AbsolutePosition.Y
+			X = (Input.Position.X - option.satval.AbsolutePosition.X) / X
+			Y = (Input.Position.Y - option.satval.AbsolutePosition.Y) / Y
+			X = X <= 0.005 and 0.005 or X >= 1 and 1 or X
+			Y = Y <= 0 and 0 or Y >= 0.995 and 0.995 or Y
+			option:updateVisuals(Color3.fromHSV(hue, X, 1 - Y))
+		end
+	end)
+	
+	option.satval.InputEnded:connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+			editingsatval = false
+		end
+	end)
+	
+	option.visualize2 = library:Create("ImageLabel", {
+		ZIndex = 3,
+		Position = UDim2.new(1, -8, 0, 8),
+		Size = UDim2.new(0, -80, 0, 80),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = currentColor,
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = option.mainHolder
+	})
+	
+	option.resetColor = library:Create("ImageLabel", {
+		ZIndex = 3,
+		Position = UDim2.new(1, -8, 0, 92),
+		Size = UDim2.new(0, -80, 0, 18),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageTransparency = 1,
+		ImageColor3 = Color3.fromRGB(20, 20, 20),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = option.mainHolder
+	})
+	
+	option.resetText = library:Create("TextLabel", {
+		ZIndex = 3,
+		Size = UDim2.new(1, 0, 1, 0),
+		BackgroundTransparency = 1,
+		Text = "Reset",
+		TextTransparency = 1,
+		Font = Enum.Font.Code,
+		TextSize = 15,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		Parent = option.resetColor
+	})
+	
+	option.resetColor.InputBegan:connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseButton1 and not rainbowEnabled then
+			previousColors = {originalColor}
+			option:SetColor(originalColor)
+		end
+		if Input.UserInputType == Enum.UserInputType.MouseMovement and not dragging then
+			tweenService:Create(option.resetColor, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(10, 10, 10)}):Play()
+		end
+	end)
+	
+	option.resetColor.InputEnded:connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseMovement and not dragging then
+			tweenService:Create(option.resetColor, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(20, 20, 20)}):Play()
+		end
+	end)
+	
+	option.undoColor = library:Create("ImageLabel", {
+		ZIndex = 3,
+		Position = UDim2.new(1, -8, 0, 112),
+		Size = UDim2.new(0, -80, 0, 18),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageTransparency = 1,
+		ImageColor3 = Color3.fromRGB(20, 20, 20),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = option.mainHolder
+	})
+	
+	option.undoText = library:Create("TextLabel", {
+		ZIndex = 3,
+		Size = UDim2.new(1, 0, 1, 0),
+		BackgroundTransparency = 1,
+		Text = "Undo",
+		TextTransparency = 1,
+		Font = Enum.Font.Code,
+		TextSize = 15,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		Parent = option.undoColor
+	})
+	
+	option.undoColor.InputBegan:connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseButton1 and not rainbowEnabled then
+			local Num = #previousColors == 1 and 0 or 1
+			option:SetColor(previousColors[#previousColors - Num])
+			if #previousColors ~= 1 then
+				table.remove(previousColors, #previousColors)
+			end
+		end
+		if Input.UserInputType == Enum.UserInputType.MouseMovement and not dragging then
+			tweenService:Create(option.undoColor, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(10, 10, 10)}):Play()
+		end
+	end)
+	
+	option.undoColor.InputEnded:connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseMovement and not dragging then
+			tweenService:Create(option.undoColor, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(20, 20, 20)}):Play()
+		end
+	end)
+	
+	option.setColor = library:Create("ImageLabel", {
+		ZIndex = 3,
+		Position = UDim2.new(1, -8, 0, 132),
+		Size = UDim2.new(0, -80, 0, 18),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageTransparency = 1,
+		ImageColor3 = Color3.fromRGB(20, 20, 20),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = option.mainHolder
+	})
+	
+	option.setText = library:Create("TextLabel", {
+		ZIndex = 3,
+		Size = UDim2.new(1, 0, 1, 0),
+		BackgroundTransparency = 1,
+		Text = "Set",
+		TextTransparency = 1,
+		Font = Enum.Font.Code,
+		TextSize = 15,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		Parent = option.setColor
+	})
+	
+	option.setColor.InputBegan:connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseButton1 and not rainbowEnabled then
+			table.insert(previousColors, currentColor)
+			option:SetColor(currentColor)
+		end
+		if Input.UserInputType == Enum.UserInputType.MouseMovement and not dragging then
+			tweenService:Create(option.setColor, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(10, 10, 10)}):Play()
+		end
+	end)
+	
+	option.setColor.InputEnded:connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseMovement and not dragging then
+			tweenService:Create(option.setColor, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(20, 20, 20)}):Play()
+		end
+	end)
+	
+	option.rainbow = library:Create("ImageLabel", {
+		ZIndex = 3,
+		Position = UDim2.new(1, -8, 0, 152),
+		Size = UDim2.new(0, -80, 0, 18),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageTransparency = 1,
+		ImageColor3 = Color3.fromRGB(20, 20, 20),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = option.mainHolder
+	})
+	
+	option.rainbowText = library:Create("TextLabel", {
+		ZIndex = 3,
+		Size = UDim2.new(1, 0, 1, 0),
+		BackgroundTransparency = 1,
+		Text = "Rainbow",
+		TextTransparency = 1,
+		Font = Enum.Font.Code,
+		TextSize = 15,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		Parent = option.rainbow
+	})
+	
+	option.rainbow.InputBegan:connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+			rainbowEnabled = not rainbowEnabled
+			if rainbowEnabled then
+				rainbowLoop = runService.Heartbeat:connect(function()
+					option:SetColor(chromaColor)
+					option.rainbowText.TextColor3 = chromaColor
+				end)
+			else
+				rainbowLoop:Disconnect()
+				option:SetColor(previousColors[#previousColors])
+				option.rainbowText.TextColor3 = Color3.fromRGB(255, 255, 255)
+			end
+		end
+		if Input.UserInputType == Enum.UserInputType.MouseMovement and not dragging then
+			tweenService:Create(option.rainbow, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(10, 10, 10)}):Play()
+		end
+	end)
+	
+	option.rainbow.InputEnded:connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseMovement and not dragging then
+			tweenService:Create(option.rainbow, TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(20, 20, 20)}):Play()
+		end
+	end)
+	
+	return option
+end
+
+local function createColor(option, parent, holder)
+	option.main = library:Create("TextLabel", {
+		LayoutOrder = option.position,
+		Size = UDim2.new(1, 0, 0, 31),
+		BackgroundTransparency = 1,
+		Text = " " .. option.text,
+		TextSize = 17,
+		Font = Enum.Font.Gotham,
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		TextXAlignment = Enum.TextXAlignment.Left,
+		Parent = parent.content
+	})
+	
+	local colorBoxOutline = library:Create("ImageLabel", {
+		Position = UDim2.new(1, -6, 0, 4),
+		Size = UDim2.new(-1, 10, 1, -10),
+		SizeConstraint = Enum.SizeConstraint.RelativeYY,
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = Color3.fromRGB(100, 100, 100),
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = option.main
+	})
+	
+	option.visualize = library:Create("ImageLabel", {
+		Position = UDim2.new(0, 2, 0, 2),
+		Size = UDim2.new(1, -4, 1, -4),
+		BackgroundTransparency = 1,
+		Image = "rbxassetid://3570695787",
+		ImageColor3 = option.color,
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(100, 100, 100, 100),
+		SliceScale = 0.02,
+		Parent = colorBoxOutline
+	})
+	
+	local inContact
+	option.main.InputBegan:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			if not option.mainHolder then createColorPickerWindow(option) end
+			if library.activePopup then
+				library.activePopup:Close()
+			end
+			local position = option.main.AbsolutePosition
+			option.mainHolder.Position = UDim2.new(0, position.X - 5, 0, position.Y - 10)
+			option.open = true
+			option.mainHolder.Visible = true
+			library.activePopup = option
+			tweenService:Create(option.mainHolder, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = 0, Position = UDim2.new(0, position.X - 5, 0, position.Y - 4)}):Play()
+			tweenService:Create(option.mainHolder, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out, 0, false, 0.1), {Position = UDim2.new(0, position.X - 5, 0, position.Y + 1)}):Play()
+			tweenService:Create(option.satval, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundTransparency = 0}):Play()
+			for _,object in next, option.mainHolder:GetDescendants() do
+				if object:IsA"TextLabel" then
+					tweenService:Create(object, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {TextTransparency = 0}):Play()
+				elseif object:IsA"ImageLabel" then
+					tweenService:Create(object, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageTransparency = 0}):Play()
+				elseif object:IsA"Frame" then
+					tweenService:Create(object, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundTransparency = 0}):Play()
+				end
+			end
+		end
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			inContact = true
+			if not option.open then
+				tweenService:Create(colorBoxOutline, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(140, 140, 140)}):Play()
+			end
+		end
+	end)
+	
+	option.main.InputEnded:connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			inContact = true
+			if not option.open then
+				tweenService:Create(colorBoxOutline, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageColor3 = Color3.fromRGB(100, 100, 100)}):Play()
+			end
+		end
+	end)
+	
+	function option:SetColor(newColor)
+		if self.mainHolder then
+			self:updateVisuals(newColor)
+		end
+		self.visualize.ImageColor3 = newColor
+		library.flags[self.flag] = newColor
+		self.color = newColor
+		self.callback(newColor)
+	end
+	
+	function option:Close()
+		library.activePopup = nil
+		self.open = false
+		local position = self.main.AbsolutePosition
+		tweenService:Create(self.mainHolder, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageTransparency = 1, Position = UDim2.new(0, position.X - 5, 0, position.Y - 10)}):Play()
+		tweenService:Create(self.satval, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundTransparency = 1}):Play()
+		for _,object in next, self.mainHolder:GetDescendants() do
+			if object:IsA"TextLabel" then
+				tweenService:Create(object, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {TextTransparency = 1}):Play()
+			elseif object:IsA"ImageLabel" then
+				tweenService:Create(object, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageTransparency = 1}):Play()
+			elseif object:IsA"Frame" then
+				tweenService:Create(object, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundTransparency = 1}):Play()
+			end
+		end
+		delay(0.3, function()
+			if not self.open then
+				self.mainHolder.Visible = false
+			end 
+		end)
+	end
+end
+
+local function loadOptions(option, holder)
+	for _,newOption in next, option.options do
+		if newOption.type == "label" then
+			createLabel(newOption, option)
+		elseif newOption.type == "toggle" then
+			createToggle(newOption, option)
+		elseif newOption.type == "button" then
+			createButton(newOption, option)
+		elseif newOption.type == "list" then
+			createList(newOption, option, holder)
+		elseif newOption.type == "box" then
+			createBox(newOption, option)
+		elseif newOption.type == "bind" then
+			createBind(newOption, option)
+		elseif newOption.type == "slider" then
+			createSlider(newOption, option)
+		elseif newOption.type == "color" then
+			createColor(newOption, option, holder)
+		elseif newOption.type == "folder" then
+			newOption:init()
+		end
+	end
+end
+
+local function getFnctions(parent)
+	function parent:AddLabel(option)
+		option = typeof(option) == "table" and option or {}
+		option.text = tostring(option.text)
+		option.type = "label"
+		option.position = #self.options
+		table.insert(self.options, option)
+		
+		return option
+	end
+	
+	function parent:AddToggle(option)
+		option = typeof(option) == "table" and option or {}
+		option.text = tostring(option.text)
+		option.state = typeof(option.state) == "boolean" and option.state or false
+		option.callback = typeof(option.callback) == "function" and option.callback or function() end
+		option.type = "toggle"
+		option.position = #self.options
+		option.flag = option.flag or option.text
+		library.flags[option.flag] = option.state
+		table.insert(self.options, option)
+		
+		return option
+	end
+	
+	function parent:AddButton(option)
+		option = typeof(option) == "table" and option or {}
+		option.text = tostring(option.text)
+		option.callback = typeof(option.callback) == "function" and option.callback or function() end
+		option.type = "button"
+		option.position = #self.options
+		option.flag = option.flag or option.text
+		table.insert(self.options, option)
+		
+		return option
+	end
+	
+	function parent:AddBind(option)
+		option = typeof(option) == "table" and option or {}
+		option.text = tostring(option.text)
+		option.key = (option.key and option.key.Name) or option.key or "F"
+		option.hold = typeof(option.hold) == "boolean" and option.hold or false
+		option.callback = typeof(option.callback) == "function" and option.callback or function() end
+		option.type = "bind"
+		option.position = #self.options
+		option.flag = option.flag or option.text
+		library.flags[option.flag] = option.key
+		table.insert(self.options, option)
+		
+		return option
+	end
+	
+	function parent:AddSlider(option)
+		option = typeof(option) == "table" and option or {}
+		option.text = tostring(option.text)
+		option.min = typeof(option.min) == "number" and option.min or 0
+		option.max = typeof(option.max) == "number" and option.max or 0
+		option.dual = typeof(option.dual) == "boolean" and option.dual or false
+		option.value = math.clamp(typeof(option.value) == "number" and option.value or option.min, option.min, option.max)
+		option.value2 = typeof(option.value2) == "number" and option.value2 or option.max
+		option.callback = typeof(option.callback) == "function" and option.callback or function() end
+		option.float = typeof(option.value) == "number" and option.float or 1
+		option.type = "slider"
+		option.position = #self.options
+		option.flag = option.flag or option.text
+		library.flags[option.flag] = option.value
+		table.insert(self.options, option)
+		
+		return option
+	end
+	
+	function parent:AddList(option)
+		option = typeof(option) == "table" and option or {}
+		option.text = tostring(option.text)
+		option.values = typeof(option.values) == "table" and option.values or {}
+		option.value = tostring(option.value or option.values[1] or "")
+		option.callback = typeof(option.callback) == "function" and option.callback or function() end
+		option.open = false
+		option.type = "list"
+		option.position = #self.options
+		option.flag = option.flag or option.text
+		library.flags[option.flag] = option.value
+		table.insert(self.options, option)
+		
+		return option
+	end
+	
+	function parent:AddBox(option)
+		option = typeof(option) == "table" and option or {}
+		option.text = tostring(option.text)
+		option.value = tostring(option.value or "")
+		option.callback = typeof(option.callback) == "function" and option.callback or function() end
+		option.type = "box"
+		option.position = #self.options
+		option.flag = option.flag or option.text
+		library.flags[option.flag] = option.value
+		table.insert(self.options, option)
+		
+		return option
+	end
+	
+	function parent:AddColor(option)
+		option = typeof(option) == "table" and option or {}
+		option.text = tostring(option.text)
+		option.color = typeof(option.color) == "table" and Color3.new(tonumber(option.color[1]), tonumber(option.color[2]), tonumber(option.color[3])) or option.color or Color3.new(255, 255, 255)
+		option.callback = typeof(option.callback) == "function" and option.callback or function() end
+		option.open = false
+		option.type = "color"
+		option.position = #self.options
+		option.flag = option.flag or option.text
+		library.flags[option.flag] = option.color
+		table.insert(self.options, option)
+		
+		return option
+	end
+	
+	function parent:AddFolder(title)
+		local option = {}
+		option.title = tostring(title)
+		option.options = {}
+		option.open = false
+		option.type = "folder"
+		option.position = #self.options
+		table.insert(self.options, option)
+		
+		getFnctions(option)
+		
+		function option:init()
+			createOptionHolder(self.title, parent.content, self, true)
+			loadOptions(self, parent)
+		end
+		
+		return option
+	end
+end
+
+function library:CreateWindow(title)
+	local window = {title = tostring(title), options = {}, open = true, canInit = true, init = false, position = #self.windows}
+	getFnctions(window)
+	
+	table.insert(library.windows, window)
+	
+	return window
+end
+
+local UIToggle
+local UnlockMouse
+function library:Init()
+	
+	self.base = self.base or self:Create("ScreenGui")
+	if (syn and syn.protect_gui) then
+		syn.protect_gui(self.base)
+		self.base.Parent = game:GetService"CoreGui"
+	elseif get_hidden_gui then
+		self.base.Parent = get_hidden_gui()
+	elseif gethui then
+		self.base.Parent = gethui()
+	else
+		game:GetService"Players".LocalPlayer:Kick("Error: protect_gui function not found")
+		return
+	end
+	
+	for _, window in next, self.windows do
+		if window.canInit and not window.init then
+			window.init = true
+			createOptionHolder(window.title, self.base, window)
+			loadOptions(window)
+		end
+	end
+end
+
+function library:Close()
+	self.open = not self.open
+	if self.activePopup then
+		self.activePopup:Close()
+	end
+	for _, window in next, self.windows do
+		if window.main then
+			window.main.Visible = self.open
+		end
+	end
+end
+
+inputService.InputBegan:connect(function(input)
+	if input.UserInputType == Enum.UserInputType.MouseButton1 then
+		if library.activePopup then
+			if input.Position.X < library.activePopup.mainHolder.AbsolutePosition.X or input.Position.Y < library.activePopup.mainHolder.AbsolutePosition.Y then
+				library.activePopup:Close()
+			end
+		end
+		if library.activePopup then
+			if input.Position.X > library.activePopup.mainHolder.AbsolutePosition.X + library.activePopup.mainHolder.AbsoluteSize.X or input.Position.Y > library.activePopup.mainHolder.AbsolutePosition.Y + library.activePopup.mainHolder.AbsoluteSize.Y then
+				library.activePopup:Close()
+			end
+		end
+	end
+end)
+
+inputService.InputChanged:connect(function(input)
+	if input.UserInputType == Enum.UserInputType.MouseMovement then
+		local mouse = inputService:GetMouseLocation() + Vector2.new(0, -36)
+	end
+	if input == dragInput and dragging then
+		update(input)
+	end
+end)
+
+return library
